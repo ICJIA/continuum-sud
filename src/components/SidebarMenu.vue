@@ -45,9 +45,7 @@
           >
         </h5>
         <h5 class="pt-3" style="font-weight: 400">
-          <a
-            href="https://github.com/ICJIA/nuxt-all-sites-summit-2019"
-            class="sidebar-info"
+          <a href="https://github.com/ICJIA/continuum-sud" class="sidebar-info"
             >View on Github</a
           >
         </h5>
