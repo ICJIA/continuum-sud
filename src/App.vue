@@ -1,31 +1,211 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
-  </div>
+  <v-app id="top">
+    <app-nav></app-nav>
+    <v-content>
+      <router-view></router-view>
+    </v-content>
+  </v-app>
 </template>
 
+<script>
+/* eslint-disable no-console */
+import { EventBus } from "./event-bus.js";
+import { mapGetters } from "vuex";
+import AppNav from "@/components/AppNav";
+export default {
+  name: "App",
+  components: { AppNav },
+  created() {
+    if (!this.isAppReady) {
+      this.$store.dispatch("initApp");
+    }
+  },
+  computed: {
+    ...mapGetters(["isAppReady"])
+  },
+  data() {
+    return {
+      //
+    };
+  },
+  mounted() {
+    document.body.addEventListener("click", function(e) {
+      // e.target was the clicked element
+      if (e.target.className === "footnote-link") {
+        e.preventDefault();
+        let target = e.target.getAttribute("href");
+        let reference = document.getElementById(target.substr(1));
+        console.log(reference.innerText);
+        EventBus.$emit("showSnackbar", reference.innerHTML);
+      }
+    });
+  }
+};
+</script>
+
 <style>
-#app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+.wrapper {
 }
-#nav {
-  padding: 30px;
+body {
+  font-size: 16px;
+  color: #000;
+}
+/**
+* https://github.com/vuetifyjs/vuetify/issues/3875
+*/
+
+body {
+  -webkit-overflow-scrolling: touch;
 }
 
-#nav a {
+body.noscroll {
+  -webkit-overflow-scrolling: auto !important;
+}
+
+p,
+.excerpt {
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: "Gentium Book Basic", serif;
+  /* text-indent: 2em; */
+}
+
+/* .markdown-body p:first-child:first-letter {
+  color: #ccc;
+  float: left;
+  font-family: "Gentium Book Basic", serif;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+} */
+
+.full-height {
+  padding-top: 50px !important;
+  min-height: 100vh;
+  padding-bottom: 50px !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.headline {
+  /* font-family: neue-haas-grotesk-display, sans-serif; */
+  font-family: "Oswald", sans-serif !important;
+  font-weight: 700;
+  font-style: normal;
+}
+div.sidebar {
+  /* font-family: neue-haas-grotesk-display, sans-serif; */
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.appTitle,
+.toolbarTitle,
+.sidebar-item {
+  /* font-family: neue-haas-grotesk-display, sans-serif; */
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+a.sidebar-info {
+  color: #333;
+  text-decoration: none;
+  font-size: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: bold;
-  color: #2c3e50;
+}
+.logo:hover {
+  cursor: pointer;
+}
+.sidebar-info:hover {
+  color: #aaa;
+  cursor: pointer !important;
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
+.sidebar-item {
+  font-size: 18px !important;
+}
+
+.appTitle {
+  color: #555;
+}
+h1.main {
+  font-size: 4em;
+}
+h2.header {
+  font-size: 2.7em;
+  margin-bottom: 50px !important;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
+  line-height: 1.3em;
+}
+h2,
+h3 {
+  border-bottom: 0px solid #bbb;
+  padding-bottom: 3px;
+  margin-bottom: 15px;
+}
+.no-rule {
+  border-bottom: 0px;
+}
+.muted {
+  color: #666;
+}
+ul,
+ol {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+ul li,
+ol li {
+  font-size: 16px;
+  font-family: "Gentium Book Basic", serif;
+}
+ul li,
+ol li {
+  margin-bottom: 8px;
+}
+
+.page {
+  border-top: 1px solid #eee;
+}
+
+li.footnote-item p {
+  font-size: 12px !important;
+  font-family: "Roboto", sans-serif !important;
+}
+
+.snackbar p {
+  font-size: 14px !important;
+  font-family: "Roboto", sans-serif !important;
+}
+
+ol.footnotes-list {
+  margin-top: 30px;
+}
+
+*:focus {
+  outline: none;
+}
+
+summary {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 22px;
+}
+
+summary:hover {
+  cursor: pointer;
+}
+
+a {
+  font-weight: 700;
 }
 </style>

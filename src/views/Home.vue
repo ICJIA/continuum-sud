@@ -1,18 +1,31 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div>
+    <BaseSnackbar></BaseSnackbar>
+    <BaseModal></BaseModal>
+    <BaseSplash></BaseSplash>
+    <div v-for="(page, index) in pages" :key="index">
+      <component :is="page.component" :content="page"></component>
+    </div>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
+import BasePage from "@/components/BasePage";
+import BaseTimeline from "@/components/BaseTimeline";
+import BaseModal from "@/components/BaseModal";
+import BaseSplash from "@/components/BaseSplash";
+import BaseSnackbar from "@/components/BaseSnackbar";
+import { mapGetters } from "vuex";
 export default {
-  name: "home",
   components: {
-    HelloWorld
+    BasePage,
+    BaseTimeline,
+    BaseModal,
+    BaseSplash,
+    BaseSnackbar
+  },
+  computed: {
+    ...mapGetters(["isAppReady", "pages", "intercepts", "ebps"])
   }
 };
 </script>
