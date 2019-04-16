@@ -70,17 +70,6 @@ p,
   /* text-indent: 2em; */
 }
 
-/* .markdown-body p:first-child:first-letter {
-  color: #ccc;
-  float: left;
-  font-family: "Gentium Book Basic", serif;
-  font-size: 75px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
-} */
-
 .full-height {
   padding-top: 50px !important;
   min-height: 100vh;
@@ -151,16 +140,28 @@ h1.main {
 }
 h2.header {
   font-size: 2.7em;
-  margin-bottom: 50px !important;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 8px;
-  line-height: 1.3em;
 }
+
+h2.header.xs,
+h2.header.sm {
+  font-size: 1.5em;
+  /* margin-bottom: 20px !important;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 8px;
+  line-height: 1.5em; */
+}
+
 h2,
 h3 {
   border-bottom: 0px solid #bbb;
   padding-bottom: 3px;
   margin-bottom: 15px;
+}
+h2.rule {
+  margin-bottom: 50px !important;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
+  line-height: 1.3em;
 }
 h2.no-rule {
   border-bottom: 0px !important;
@@ -189,12 +190,10 @@ ol li {
 
 li.footnote-item p {
   font-size: 12px !important;
-  font-family: "Roboto", sans-serif !important;
 }
 
 .snackbar p {
   font-size: 14px !important;
-  font-family: "Roboto", sans-serif !important;
 }
 
 ol.footnotes-list {

@@ -21,7 +21,7 @@
       <div
         v-for="page in pages"
         :key="page.slug"
-        class="mb-3 px-3 sidebar-item uppercase"
+        class="mb-3 px-4 sidebar-item uppercase"
         style="font-size: 18px; color: #fff"
       >
         <div

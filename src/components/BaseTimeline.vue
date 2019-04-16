@@ -7,7 +7,14 @@
     >
       <v-layout row>
         <v-flex class="" xs10 offset-xs1
-          ><h2 class="header uppercase">
+          ><h2
+            class="header uppercase"
+            :class="{
+              xs: $vuetify.breakpoint.xs,
+              sm: $vuetify.breakpoint.sm,
+              rule: !content.showRule
+            }"
+          >
             {{ content.title }}
           </h2></v-flex
         >

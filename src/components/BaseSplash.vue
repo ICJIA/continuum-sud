@@ -1,5 +1,10 @@
 <template>
-  <v-parallax dark src="/splash-cropped.png" height="500">
+  <v-parallax
+    dark
+    src="/splash-cropped.png"
+    v-if="$vuetify.breakpoint.md || $vuetify.breakpoint.lg"
+    height="500"
+  >
     <v-layout align-center column justify-center>
       <!-- <h1 class="main mb-3 justify-center">Drug Continuum</h1> -->
     </v-layout>

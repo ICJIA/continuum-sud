@@ -3,7 +3,7 @@ title: 'Reducing Substance Abuse Disorders and Related Offending: A Continuum of
 posted: 2019-04-11
 updated: 2019-04-11
 position: 10
-displayTitle: true
+showRule: true
 component: 'BasePage'
 theme: 'light'
 sidebar: true
