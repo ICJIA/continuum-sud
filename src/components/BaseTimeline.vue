@@ -8,7 +8,7 @@
       <v-layout row>
         <v-flex class="" xs10 offset-xs1
           ><h2
-            class="header uppercase"
+            class="header uppercase pt-5"
             :class="{
               xs: $vuetify.breakpoint.xs,
               sm: $vuetify.breakpoint.sm,
