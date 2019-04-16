@@ -92,6 +92,12 @@ h6,
 .uppercase {
   text-transform: uppercase;
 }
+
+.lato,
+.bodyFont {
+  font-family: "Lato", sans-serif !important;
+}
+
 div.sidebar {
   /* font-family: neue-haas-grotesk-display, sans-serif; */
   /* font-family: "Oswald", sans-serif; */
@@ -192,7 +198,7 @@ ol {
 ul li,
 ol li {
   font-size: 16px;
-  /* font-family: "Gentium Book Basic", serif; */
+  font-family: "Lato", sans-serif;
 }
 ul li,
 ol li {

@@ -36,16 +36,20 @@
                 </template>
                 <v-card class="elevation-2">
                   <v-card-title
-                    class="headline grey lighten-3"
+                    class="headline grey lighten-3 lato"
                     style="color: #333"
                     >{{ item.title }}</v-card-title
                   >
-                  <v-card-text class="excerpt white" style="color: #333">
+                  <v-card-text class="excerpt white lato" style="color: #333">
                     {{ item.excerpt }}
                   </v-card-text>
                   <v-card-actions class="white">
                     <v-spacer></v-spacer>
-                    <v-btn dark :color="item.color" @click="displayModal(item)"
+                    <v-btn
+                      dark
+                      :color="item.color"
+                      @click="displayModal(item)"
+                      class="lato"
                       >Read More</v-btn
                     >
                   </v-card-actions>
