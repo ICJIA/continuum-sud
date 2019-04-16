@@ -109,6 +109,25 @@ div.sidebar {
   font-size: 16px;
 }
 
+.appTitle {
+  font-family: "Lato", sans-serif;
+}
+
+.appTitle {
+  color: #222;
+}
+.appTitle.sm {
+  font-size: 14px;
+}
+
+.appTitle.xs {
+  font-size: 12px;
+}
+
+.appTitle .sub {
+  /* color: #666; */
+}
+
 a.sidebar-info {
   color: #eee;
   text-decoration: none;
@@ -126,10 +145,6 @@ a.sidebar-info {
 
 .sidebar-item {
   font-size: 18px !important;
-}
-
-.appTitle {
-  color: #333;
 }
 
 .toolbar__title {

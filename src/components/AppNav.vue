@@ -6,7 +6,7 @@
         <v-toolbar :clipped-left="clipped">
           <img
             src="../assets/img/logo-small.png"
-            width="60"
+            width="80"
             alt="Illinois Criminal Justice Information Authority"
             v-scroll-to="{
               el: '#top',
@@ -21,10 +21,25 @@
               el: '#top',
               offset: -50
             }"
-            >Reducing Substance Abuse Disorders and Related Offending: A
-            Continuum of Evidence-Informed Practices in the Criminal Justice
-            System</v-toolbar-title
+            :class="{
+              xs: $vuetify.breakpoint.xs,
+              sm: $vuetify.breakpoint.sm
+            }"
           >
+            <span v-if="$vuetify.breakpoint.md || $vuetify.breakpoint.lg"
+              >Reducing Substance Abuse Disorders and Related Offending: A
+              Continuum of Evidence-Informed Practices in the Criminal Justice
+              System</span
+            >
+
+            <span v-else
+              >Reducing Substance Abuse Disorders and Related Offending: <br />
+              <span class="sub"
+                >A Continuum of Evidence-Informed Practices in the Criminal
+                Justice System</span
+              ></span
+            >
+          </v-toolbar-title>
           <v-spacer></v-spacer>
           <v-toolbar-side-icon
             @click.stop="toggleSidebar"
