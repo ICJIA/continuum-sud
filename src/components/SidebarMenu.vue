@@ -3,23 +3,26 @@
     v-model="drawer"
     app
     right
+    dark
     temporary
     style="z-index: 10000 !important"
+    :class="config['primaryColor']"
   >
     <v-layout fill-height column ma-0>
       <h2
         v-scroll-to="'#home'"
-        class="text-xs-center"
-        style="font-size: 34px; margin-top: 20px;margin-bottom: 50px; border-bottom: 1px solid #ccc; padding-bottom: 10px; "
+        class="text-xs-center px-3"
+        style="color: #fff; font-size: 16px; margin-top: 20px;margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; "
       >
-        Title here
+        REDUCING SUBSTANCE ABUSE DISORDERS AND RELATED OFFENDING: A CONTINUUM OF
+        EVIDENCE-INFORMED PRACTICES IN THE CRIMINAL JUSTICE SYSTEM
       </h2>
 
       <div
         v-for="page in pages"
         :key="page.slug"
         class="mb-3 px-3 sidebar-item"
-        style="font-size: 18px;"
+        style="font-size: 18px; color: #fff"
       >
         <div
           v-scroll-to="`#${page.slug}`"
@@ -35,7 +38,7 @@
       <v-divider />
       <div class="text-xs-center mt-4 mb-3 hover">
         <img
-          src="@/assets/img/logo-small.png"
+          src="@/assets/img/logo-white.png"
           class="logo"
           height="40"
           @click="goto('http://www.icjia.state.il.us')"
@@ -45,7 +48,7 @@
             &copy;&nbsp;2019 Illinois Criminal Justice Information Authority</a
           >
         </h5>
-        <h5 class="pt-3" style="font-weight: 400">
+        <h5 class="pt-1" style="font-weight: 400">
           <a href="https://github.com/ICJIA/continuum-sud" class="sidebar-info"
             >View on Github</a
           >
@@ -56,6 +59,7 @@
 </template>
 
 <script>
+import config from "@/config";
 import { EventBus } from "@/event-bus.js";
 import { mapGetters } from "vuex";
 export default {
@@ -73,7 +77,8 @@ export default {
   },
   data() {
     return {
-      drawer: false
+      drawer: false,
+      config
     };
   },
   methods: {
@@ -91,6 +96,6 @@ export default {
 <style>
 .sidebar-link:hover {
   cursor: pointer;
-  color: #666;
+  color: #4dd0e1;
 }
 </style>

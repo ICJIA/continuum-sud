@@ -116,7 +116,7 @@ div.sidebar {
 }
 
 a.sidebar-info {
-  color: #333;
+  color: #eee;
   text-decoration: none;
   font-size: 10px;
 
@@ -136,6 +136,10 @@ a.sidebar-info {
 
 .appTitle {
   color: #555;
+}
+
+.toolbar__title {
+  justify-content: center !important;
 }
 h1.main {
   font-size: 4em;
@@ -211,7 +215,7 @@ a {
 }
 
 .drop {
-  color: #3a4a84;
+  color: #00838f;
   float: left;
   font-family: Georgia;
   font-size: 75px;

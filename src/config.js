@@ -32,6 +32,8 @@ module.exports = {
       sortOn: "position"
     }
   },
+  lastUpdate: "2019-04-16",
+  primaryColor: "cyan darken-4",
   theme: {
     dark: {
       color: "#333",
