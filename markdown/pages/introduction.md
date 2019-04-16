@@ -1,5 +1,5 @@
 ---
-title: 'Introduction'
+title: 'Reducing Substance Abuse Disorders and Related Offending: A Continuum of Evidence-Informed Practices in the Criminal Justice System'
 posted: 2019-04-11
 updated: 2019-04-11
 position: 10
@@ -7,16 +7,13 @@ displayTitle: true
 component: 'BasePage'
 theme: 'light'
 sidebar: true
+menuTitle: 'Introduction'
 ---
 
-Lorem markdownum contigit soror, vestis Hippotades viridi, albaque. In Dryopen
+<span class="drop">L</span>orem markdownum contigit soror, vestis Hippotades viridi, albaque. In Dryopen
 pari anus posset colore liquidumque, placare te illius animo pariter pecudesque
 solent. Nec dat *agrestibus* super gurgite obicit, armiger bitumineae aetas
-contigit, est. Proxima gerens! Aut anni nequiquam dixit matris femina antiquis et canam. Sanguine et, vires memorque partim. Mihi imago: erat virgo viros, aut partes: in. Exigui velamina interea, pati altis, cygnis vocisque in.
-
-## Maxime auctoribus tacuit
-
-Illum sua qua venae quod comis: faciesque nil cumque est sagittae. Per amplexa
+contigit, est. Proxima gerens! Aut anni nequiquam dixit matris femina antiquis et canam. Sanguine et, vires memorque partim. Mihi imago: erat virgo viros, aut partes: in. Exigui velamina interea, pati altis, cygnis vocisque in. Illum sua qua venae quod comis: faciesque nil cumque est sagittae. Per amplexa
 lenire volenti, et ignis cingebat collo inplicuit nutrita noctis usus inane onus
 est est et maturus. Nestor artem nigra cadavera ferrum vulnere scitanti timido relinque facti *illis
 omnipotens siste* gravi! [Praeposuisse stetit](http://cur.io/matre), fieretque

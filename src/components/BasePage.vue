@@ -9,7 +9,9 @@
       <v-layout row>
         <v-flex class="" xs10 offset-xs1>
           <div class="wrapper pt-4">
-            <h2 class="header mb-3">{{ content.title }}</h2>
+            <h2 class="header no-rule mb-3">
+              {{ content.title }}
+            </h2>
 
             <div
               v-html="content.html"
@@ -60,15 +62,4 @@ export default {
 };
 </script>
 
-<style>
-.dark a {
-  color: #333 !important;
-}
-.light a {
-  color: #333 !important;
-}
-
-.icjia a {
-  color: #fff !important;
-}
-</style>
+<style></style>

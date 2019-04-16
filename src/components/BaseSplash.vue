@@ -1,5 +1,5 @@
 <template>
-  <v-parallax dark src="/splash.jpg" height="750">
+  <v-parallax dark src="/splash-cropped.png" height="500">
     <v-layout align-center column justify-center>
       <!-- <h1 class="main mb-3 justify-center">Drug Continuum</h1> -->
     </v-layout>

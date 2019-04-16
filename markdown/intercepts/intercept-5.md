@@ -7,7 +7,7 @@ excerpt: 'This intercept involves probation and parole programs and services. Th
 position: 50
 timeline: true
 displayTimelineTitle: true
-color: 'light-blue darken-4'
+color: 'cyan darken-4'
 sidebar: true
 ---
 

@@ -7,7 +7,7 @@ excerpt: 'This intercept involves prison or reentry from prison or jail. This in
 position: 40
 timeline: true
 displayTimelineTitle: true
-color: 'light-blue darken-4'
+color: 'cyan darken-4'
 sidebar: true
 ---
 ## DRUG COURT

@@ -47,8 +47,9 @@ export default {
 .wrapper {
 }
 body {
-  font-size: 16px;
+  font-size: 18px;
   color: #000;
+  font-family: "Lato", sans-serif !important;
 }
 /**
 * https://github.com/vuetifyjs/vuetify/issues/3875
@@ -93,13 +94,14 @@ h5,
 h6,
 .headline {
   /* font-family: neue-haas-grotesk-display, sans-serif; */
-  font-family: "Oswald", sans-serif !important;
-  font-weight: 700;
+  font-family: "Lato", sans-serif !important;
+  font-weight: 900;
   font-style: normal;
+  text-transform: uppercase;
 }
 div.sidebar {
   /* font-family: neue-haas-grotesk-display, sans-serif; */
-  font-family: "Oswald", sans-serif;
+  /* font-family: "Oswald", sans-serif; */
   font-weight: 700;
   font-style: normal;
 }
@@ -108,7 +110,7 @@ div.sidebar {
 .toolbarTitle,
 .sidebar-item {
   /* font-family: neue-haas-grotesk-display, sans-serif; */
-  font-family: "Oswald", sans-serif;
+  /* font-family: "Oswald", sans-serif; */
   font-weight: 700;
   font-style: normal;
 }
@@ -117,8 +119,7 @@ a.sidebar-info {
   color: #333;
   text-decoration: none;
   font-size: 10px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
-    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
   font-weight: bold;
 }
 .logo:hover {
@@ -152,8 +153,8 @@ h3 {
   padding-bottom: 3px;
   margin-bottom: 15px;
 }
-.no-rule {
-  border-bottom: 0px;
+h2.no-rule {
+  border-bottom: 0px !important;
 }
 .muted {
   color: #666;
@@ -174,7 +175,7 @@ ol li {
 }
 
 .page {
-  border-top: 1px solid #eee;
+  border-top: 5px solid #fff;
 }
 
 li.footnote-item p {
@@ -207,5 +208,31 @@ summary:hover {
 
 a {
   font-weight: 700;
+}
+
+.drop {
+  color: #3a4a84;
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.dark a {
+  color: #333 !important;
+}
+.light a {
+  color: #333 !important;
+}
+
+.icjia a {
+  color: #fff !important;
+}
+
+.theme--dark.v-timeline .v-timeline-item__dot {
+  background: #00838f;
 }
 </style>

@@ -7,7 +7,7 @@ excerpt: 'This intercept involves post-arrest, initial detention, or initial cou
 position: 20
 timeline: true
 displayTimelineTitle: true
-color: 'light-blue darken-4'
+color: 'cyan darken-4'
 sidebar: true
 ---
 **Description:**  Police officers are often called on to respond to incidents in which an individual is experiencing a mental health crisis. Many police departments have developed specialized responses for the incidents to divert individuals away from the criminal justice system and connect them to mental health treatment. Two common specialized response models are: 

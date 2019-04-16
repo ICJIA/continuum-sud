@@ -9,28 +9,13 @@ theme: 'light'
 sidebar: true
 ---
 
-## Datque alto regi digitos
 
-Lorem markdownum radiis: tamen: ordine urit fonti qui necis possederat frena,
+<span class="drop">L</span>orem markdownum radiis: tamen: ordine urit fonti qui necis possederat frena,
 multis equo relabi telluris? Quemque locuta munera, quod occidat rura cuspide
 exilio. Corpore si mihi, *lactentem officium* despecta. Placere dic illo
 admonuisse ab cum Arctos: iusta fies. Quinque sine male vultibus Icarus, aut
-senili cognata.
-
-> Quod fatur concipit illa in tum lacerum postquam velut accipit [erant spatio
-> variarum](http://www.dona.com/agros) Orpheus moriemur refugit. Sua *et
-> compressit* Argum, leaena otia, non sua indoluisse. Caloris suo contingere
-> iniuria sequentia cuncta et ubi et tibi, Daedalus pater consitaque dedit modo!
-
-Undas solutum, me passus inpleat *domus*: Neritius ipsa. Dedit qui Avernas nam
+senili cognata. Undas solutum, me passus inpleat *domus*: Neritius ipsa. Dedit qui Avernas nam
 ferro, vis hoc, cum conamina coluntur mea solio resectas et?
-
-> Idem miserata damnatus, colles, indicere si **circumstant** Italiae illa!
-> Pendent iugo palustribus legebat tamen nec parvas perosus adspicias ulli falsa
-> locis tellure exstinctum Chaos: dei. Equorum permansit perspicuas attulerat
-> *pingue*, dicta quod tamquam [Pelasgae lacerto](http://tori.net/). Tuum per et
-> timentem gravida canibus fugiant? Agros laudavit spes, artem signa!
-
 
 In [nullum](http://diu-raptis.net/) in in inlatum, in ait, fit! Tibi licet
 corruit alma ilia **moenia**, in nervo, turpis, non. Natus necis bibat

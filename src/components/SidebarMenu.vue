@@ -26,7 +26,8 @@
           @click="closeSidebar"
           class="sidebar-link"
         >
-          {{ page.title }}
+          <span v-if="page.menuTitle">{{ page.menuTitle }}</span
+          ><span v-else>{{ page.title }}</span>
         </div>
       </div>
 

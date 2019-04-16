@@ -15,7 +15,7 @@
       <v-layout row>
         <v-flex class="" xs10 offset-xs1>
           <div class="wrapper">
-            <v-timeline :dense="isSm || isXs">
+            <v-timeline :dense="isSm || isXs" dark>
               <v-timeline-item
                 v-for="(item, index) in timelineContent"
                 :key="index"
@@ -29,18 +29,17 @@
                 </template>
                 <v-card class="elevation-2">
                   <v-card-title
-                    class="headline"
-                    :class="item.color"
-                    style="color: #fff"
+                    class="headline grey lighten-3"
+                    style="color: #333"
                     >{{ item.title }}</v-card-title
                   >
-                  <v-card-text class="excerpt">
+                  <v-card-text class="excerpt white" style="color: #333">
                     {{ item.excerpt }}
                   </v-card-text>
-                  <v-card-actions>
+                  <v-card-actions class="white">
                     <v-spacer></v-spacer>
                     <v-btn dark :color="item.color" @click="displayModal(item)"
-                      >More Details</v-btn
+                      >Read More</v-btn
                     >
                   </v-card-actions>
                 </v-card>

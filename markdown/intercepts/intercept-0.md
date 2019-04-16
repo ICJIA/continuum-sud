@@ -7,7 +7,7 @@ excerpt: 'This intercept involves community partnerships, prevention, and behavi
 position: 0
 timeline: true
 displayTimelineTitle: true
-color: 'light-blue darken-4'
+color: 'cyan darken-4'
 sidebar: true
 ---
 
