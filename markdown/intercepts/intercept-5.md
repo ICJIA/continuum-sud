@@ -1,9 +1,9 @@
 ---
-title: 'Probation and Parole'
+title: 'Community Corrections'
 timelineTitle: 'Intercept 5'
 posted: 2019-04-11
 updated: 2019-04-11
-excerpt: 'Probation and Parole blurb here.'
+excerpt: 'This intercept involves probation and parole programs and services. This includes connecting individuals to appropriate community-based services and resources.'
 position: 50
 timeline: true
 displayTimelineTitle: true

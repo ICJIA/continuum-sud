@@ -3,7 +3,7 @@ title: 'Law Enforcement'
 timelineTitle: 'Intercept 1'
 posted: 2019-04-11
 updated: 2019-04-11
-excerpt: 'Lew enforcement blurb here.'
+excerpt: 'This intercept involves first contact with the criminal justice system, including dispatch, law enforcement, and emergency services or crisis response teams.'
 position: 0
 timeline: true
 displayTimelineTitle: true

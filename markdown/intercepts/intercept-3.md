@@ -3,7 +3,7 @@ title: 'Courts and Jails'
 timelineTitle: 'Intercept 3'
 posted: 2019-04-11
 updated: 2019-04-11
-excerpt: 'Courts and Jails blurb here.'
+excerpt: 'This intercept involves the jail or court and includes specialty court dockets and jail-based services.'
 position: 30
 timeline: true
 displayTimelineTitle: true

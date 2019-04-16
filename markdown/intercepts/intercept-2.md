@@ -1,9 +1,9 @@
 ---
-title: 'Pre-arrest Diversion Models for Individuals with Mental Health Disorders (MHDs)'
+title: 'Initial Detention / Initial Court Hearings'
 timelineTitle: 'Intercept 2'
 posted: 2019-04-11
 updated: 2019-04-11
-excerpt: 'Police officers are often called on to respond to incidents in which an individual is experiencing a mental health crisis. Many police departments have developed specialized responses for the incidents to divert individuals away from the criminal justice system and connect them to mental health treatment.'
+excerpt: 'This intercept involves post-arrest, initial detention, or initial court hearings. This includes pre-trial programs and public defender or prosecution programs.'
 position: 20
 timeline: true
 displayTimelineTitle: true

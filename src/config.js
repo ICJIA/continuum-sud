@@ -47,7 +47,7 @@ module.exports = {
     },
     icjia: {
       color: "#fff",
-      background: "#0D4474"
+      background: "#3B4A84"
     }
   },
   debug: false

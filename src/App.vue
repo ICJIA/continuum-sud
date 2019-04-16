@@ -65,7 +65,7 @@ body.noscroll {
 p,
 .excerpt {
   /* font-family: "Open Sans", sans-serif; */
-  font-family: "Gentium Book Basic", serif;
+  /* font-family: "Gentium Book Basic", serif; */
   /* text-indent: 2em; */
 }
 
@@ -166,7 +166,7 @@ ol {
 ul li,
 ol li {
   font-size: 16px;
-  font-family: "Gentium Book Basic", serif;
+  /* font-family: "Gentium Book Basic", serif; */
 }
 ul li,
 ol li {

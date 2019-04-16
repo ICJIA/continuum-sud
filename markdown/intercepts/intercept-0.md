@@ -1,9 +1,9 @@
 ---
-title: 'Family-Based Prevention Programs'
+title: 'Prevention'
 timelineTitle: 'Intercept 0'
 posted: 2019-04-11
 updated: 2019-04-11
-excerpt: 'Families are important factors in the lives of youth; parenting skills and the modeling of prosocial behavior and attitudes can influence youths’ substance use.'
+excerpt: 'This intercept involves community partnerships, prevention, and behavioral health services. The goal is to provide the earliest intervention effort to prevent criminal justice involvement.'
 position: 0
 timeline: true
 displayTimelineTitle: true

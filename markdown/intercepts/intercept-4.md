@@ -1,9 +1,9 @@
 ---
-title: 'Prison and Reentry'
+title: 'Institutions and Reentry'
 timelineTitle: 'Intercept 4'
 posted: 2019-04-11
 updated: 2019-04-11
-excerpt: 'Prison and Reentry Blurb here'
+excerpt: 'This intercept involves prison or reentry from prison or jail. This includes prison-based services for reentry and coordination of community-based services.'
 position: 40
 timeline: true
 displayTimelineTitle: true

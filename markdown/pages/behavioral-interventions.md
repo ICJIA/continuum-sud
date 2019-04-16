@@ -5,7 +5,7 @@ updated: 2019-04-11
 position: 60
 displayTitle: true
 component: 'BasePage'
-theme: 'icjia'
+theme: 'light'
 sidebar: true
 ---
 

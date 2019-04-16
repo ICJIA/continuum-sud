@@ -21,8 +21,8 @@
               el: '#top',
               offset: -50
             }"
-            >Lorem ipsum dolor: sit amet consectetur adipiscing
-            elit</v-toolbar-title
+            >REDUCING SUBSTANCE USE DISORDERS AND RELATED
+            OFFENDING</v-toolbar-title
           >
           <v-spacer></v-spacer>
           <v-toolbar-side-icon

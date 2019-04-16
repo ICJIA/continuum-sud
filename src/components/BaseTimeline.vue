@@ -23,7 +23,7 @@
                 :data-aos="getDirection(index)"
               >
                 <template v-slot:opposite v-if="item.displayTimelineTitle">
-                  <h3 style="text-transform: uppercase; color: #555">
+                  <h3 style="text-transform: uppercase; color: #eee">
                     {{ item.timelineTitle }}
                   </h3>
                 </template>
