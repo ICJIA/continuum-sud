@@ -21,8 +21,9 @@
               el: '#top',
               offset: -50
             }"
-            >REDUCING SUBSTANCE USE DISORDERS AND RELATED OFFENDING: A
-            CONTINUUM</v-toolbar-title
+            >Reducing Substance Abuse Disorders and Related Offending: A
+            Continuum of Evidence-Informed Practices in the Criminal Justice
+            System</v-toolbar-title
           >
           <v-spacer></v-spacer>
           <v-toolbar-side-icon

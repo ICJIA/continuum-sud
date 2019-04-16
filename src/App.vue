@@ -94,9 +94,13 @@ h5,
 h6,
 .headline {
   /* font-family: neue-haas-grotesk-display, sans-serif; */
-  font-family: "Lato", sans-serif !important;
+  font-family: "Lato", sans-serif;
   font-weight: 900;
   font-style: normal;
+  /* text-transform: uppercase; */
+}
+
+.uppercase {
   text-transform: uppercase;
 }
 div.sidebar {
@@ -113,6 +117,7 @@ div.sidebar {
   /* font-family: "Oswald", sans-serif; */
   font-weight: 700;
   font-style: normal;
+  font-size: 16px;
 }
 
 a.sidebar-info {
@@ -135,7 +140,7 @@ a.sidebar-info {
 }
 
 .appTitle {
-  color: #555;
+  color: #333;
 }
 
 .toolbar__title {

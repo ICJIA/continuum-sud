@@ -7,7 +7,7 @@
     >
       <v-layout row>
         <v-flex class="" xs10 offset-xs1
-          ><h2 class="header">
+          ><h2 class="header uppercase">
             {{ content.title }}
           </h2></v-flex
         >

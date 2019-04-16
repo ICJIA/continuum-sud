@@ -14,8 +14,8 @@
         class="text-xs-center px-3"
         style="color: #fff; font-size: 16px; margin-top: 20px;margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; "
       >
-        REDUCING SUBSTANCE ABUSE DISORDERS AND RELATED OFFENDING: A CONTINUUM OF
-        EVIDENCE-INFORMED PRACTICES IN THE CRIMINAL JUSTICE SYSTEM
+        Reducing Substance Abuse Disorders and Related Offending: A Continuum of
+        Evidence-Informed Practices in the Criminal Justice System
       </h2>
 
       <div
