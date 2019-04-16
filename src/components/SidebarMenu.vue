@@ -12,7 +12,7 @@
       <h2
         v-scroll-to="'#home'"
         class="text-xs-center px-3"
-        style="color: #fff; font-size: 16px; margin-top: 20px;margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; "
+        style="color: #fff; font-size: 18px; margin-top: 20px;margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; "
       >
         Reducing Substance Abuse Disorders and Related Offending: A Continuum of
         Evidence-Informed Practices in the Criminal Justice System
@@ -21,7 +21,7 @@
       <div
         v-for="page in pages"
         :key="page.slug"
-        class="mb-3 px-3 sidebar-item"
+        class="mb-3 px-3 sidebar-item uppercase"
         style="font-size: 18px; color: #fff"
       >
         <div
