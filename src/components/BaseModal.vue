@@ -23,14 +23,17 @@
             <v-flex class="" xs10 offset-xs1>
               <div class="wrapper">
                 <h2 class="no-rule text-xs-left mt-5" style="font-size: 2.2em">
-                  <span
-                    style="text-transform: uppercase; color: #0D4474; font-size: .7em"
+                  <span style="text-transform: uppercase;"
                     >{{ content.timelineTitle
                     }}<span v-if="content.timelineTitle">:</span></span
-                  ><span v-if="content.timelineTitle"><br /></span>
-                  {{ content.title }}
+                  ><span
+                    v-if="content.timelineTitle"
+                    style="text-transform: uppercase;"
+                  >
+                    {{ content.title }}</span
+                  >
                 </h2>
-                <div v-html="content.html" ref="mydiv" class="my-5"></div>
+                <div v-html="content.html" ref="mydiv" class="my-2"></div>
               </div>
             </v-flex>
           </v-layout>

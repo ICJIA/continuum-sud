@@ -3,6 +3,7 @@
     <BaseSnackbar></BaseSnackbar>
     <BaseModal></BaseModal>
     <BaseSplash></BaseSplash>
+
     <div v-for="(page, index) in pages" :key="index">
       <component :is="page.component" :content="page"></component>
     </div>
@@ -15,6 +16,7 @@ import BaseTimeline from "@/components/BaseTimeline";
 import BaseModal from "@/components/BaseModal";
 import BaseSplash from "@/components/BaseSplash";
 import BaseSnackbar from "@/components/BaseSnackbar";
+
 import { mapGetters } from "vuex";
 export default {
   components: {

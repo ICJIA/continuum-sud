@@ -19,10 +19,12 @@
             >
               {{ content.title }}
             </h2>
-
+            <div v-if="content.displayAuthor">
+              <BaseAuthor></BaseAuthor>
+            </div>
             <div
               v-html="content.html"
-              class="my-5 markdown-body"
+              class="my-3 markdown-body"
               :class="{
                 icjia: theme === 'icjia',
                 dark: theme === 'dark',
@@ -37,7 +39,7 @@
 </template>
 
 <script>
-// import BaseSplash from "@/components/BaseSplash";
+import BaseAuthor from "@/components/BaseAuthor";
 import config from "@/config";
 
 export default {
@@ -49,7 +51,7 @@ export default {
   },
 
   components: {
-    // BaseSplash
+    BaseAuthor
   },
   computed: {
     theme() {

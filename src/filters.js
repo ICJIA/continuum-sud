@@ -1,18 +1,12 @@
 import Vue from "vue";
-import "./plugins/vuetify";
-import App from "./App.vue";
-import router from "./router";
-import store from "./store";
 
-var VueScrollTo = require("vue-scrollto");
-Vue.use(VueScrollTo, {
-  offset: 10
+Vue.filter("toUpper", function(value) {
+  return value.toUpperCase();
 });
 
-import headroom from "vue-headroom";
-Vue.use(headroom);
-
-Vue.config.productionTip = false;
+Vue.filter("toLower", function(value) {
+  return value.toLowerCase();
+});
 
 Vue.filter("format", function(d) {
   var monthNames = [
@@ -50,9 +44,3 @@ Vue.filter("format", function(d) {
     monthNames[month] + " " + pad(date) + ", " + year;
   return dateWithFullMonthName;
 });
-
-new Vue({
-  router,
-  store,
-  render: h => h(App)
-}).$mount("#app");

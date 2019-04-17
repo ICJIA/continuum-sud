@@ -197,7 +197,6 @@ ol {
 }
 ul li,
 ol li {
-  font-size: 16px;
   font-family: "Lato", sans-serif;
 }
 ul li,
@@ -221,6 +220,10 @@ ol.footnotes-list {
   margin-top: 30px;
 }
 
+ol.footnotes-list {
+  font-size: 12px !important;
+}
+
 *:focus {
   outline: none;
 }
@@ -229,10 +232,15 @@ summary {
   font-weight: bold;
   text-transform: uppercase;
   font-size: 22px;
+  margin-bottom: 35px;
 }
 
 summary:hover {
   cursor: pointer;
+}
+
+summary:first-of-type {
+  margin-top: 25px;
 }
 
 a {
@@ -263,5 +271,47 @@ a {
 
 .theme--dark.v-timeline .v-timeline-item__dot {
   background: #00838f;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+
+  margin-bottom: 55px;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body table {
+  display: block;
+  overflow: auto;
+  width: 100%;
+}
+
+.markdown-body table th {
+  font-weight: 600;
+}
+
+.markdown-body table td,
+.markdown-body table th {
+  border: 1px solid #dfe2e5;
+  padding: 6px 13px;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+.author-link {
+  text-decoration: none;
+  color: #00838f;
 }
 </style>

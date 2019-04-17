@@ -10,9 +10,9 @@ displayTimelineTitle: true
 color: 'cyan darken-4'
 sidebar: true
 ---
-
-
-## DRUG COURT
+This intercept involves the jail or court and includes specialty court dockets and jail-based services.
+<details>
+<summary>DRUG COURT</summary>
 
 **Description:**  Drug court probation features
 
@@ -76,12 +76,13 @@ For professionals in the criminal justice system, a validated risk/needs assessm
 [Center for Court Innovation: Drug courts](http://www.courtinnovation.org/topic/drug-court)  
 [National Drug Court Institute](https://www.ndci.org/)  
 [Drug Court Overview](https://www.ncjrs.gov/pdffiles1/nij/238527.pdf)
+</details>
 
 
-----------
-## COGNITIVE AND BEHAVIORAL THERAPIES [^12]
+<details>
+	<summary>COGNITIVE AND BEHAVIORAL THERAPIES</summary>
 
-**Description:** Cognitive and behavioral therapies include those that reinforce and provide incentives for abstinence, enhancing life and coping skills surrounding situations and emotions that may trigger drug use, and help change attitudes and behaviors related to substance use. Some therapies focus more on the behavioral aspect of substance use; some focus more on the cognitive aspect of substance use. Others use both approaches, called cognitive-behavioral therapy. Cognitive-behavioral therapy (CBT) is a general classification of therapeutic techniques that focus on two aspects: 
+**Description:** Cognitive and behavioral therapies include those that reinforce and provide incentives for abstinence, enhancing life and coping skills surrounding situations and emotions that may trigger drug use, and help change attitudes and behaviors related to substance use. Some therapies focus more on the behavioral aspect of substance use; some focus more on the cognitive aspect of substance use. Others use both approaches, called cognitive-behavioral therapy.[^12] Cognitive-behavioral therapy (CBT) is a general classification of therapeutic techniques that focus on two aspects: 
 
  - The thought processes, attitudes, and values underlying antisocial behavior (cognitive).
  - The observable behaviors (behavioral).
@@ -210,9 +211,10 @@ For more information on validated and reliable substance use assessment tools an
 [Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
 [TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
 
-
+</details>
 ----------
-## PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT (MAT)
+<details>
+	<summary>PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT (MAT)</summary>
 
 **Description:**   [Medication-Assisted Treatment (MAT) programs](http://www.samhsa.gov/medication-assisted-treatment/treatment) incorporate the use of medicine to treat opioid or alcohol use disorders, in conjunction with behavioral therapies or counseling to treat individuals with SUDs.[^35]  With regard to opioids, the use of medication alone is called opioid replacement therapy (ORT), which alone, can also be effective to treat opioid use disorders (OUDs).[^36] MAT programs help with treatment retention and abstinence by decreasing withdrawal symptoms and cravings; increasing quality of life; reducing risk of HIV and hepatitis C; reducing risky behaviors associated with substance use; as well as decreasing risk for overdose.[^37]   MAT programs can be in the community [healthcare office, methadone maintenance clinic, primary care physicians’ office, certified opioid treatment programs (OTPs)] or [correctional settings](http://nicic.gov/topics/5288-medication-assisted-treatment-mat-in-corrections).[^38]  Each type of medication for MAT is Food and Drug Administration (FDA) approved and is most effective when coupled with other counseling or therapy services for SUDs.[^39]  
 
@@ -357,9 +359,10 @@ For more information on validated and reliable substance use assessment tools an
 [Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)
 [TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
 
+</details>
 
-----------
-## THERAPEUTIC COMMUNITIES (TCs)
+<details>
+	<summary>THERAPEUTIC COMMUNITIES (TCs)</summary>
 
 **Description:** Therapeutic communities (TCs) in prisons and jails are peer- and staff-led, residential programs that provide substance use treatment, mental health counseling, and other health support services, with participants generally housed separate from the prison or jail’s general population.[^72]  This type of program generally lasts between 12- and 18-months, focusing on overall lifestyle changes and examination of individuals’ thinking and behavior.[^73]  Further, relapse prevention strategies, including coping and social skills, thinking and behavior awareness, as well as development of care coordination and support networks, are provided as participants’ transition for release into the community. [^74] Typically, TCs are more frequently found in prisons, but can be implemented in a jail setting.
 
@@ -429,10 +432,10 @@ For more information on validated and reliable substance use assessment tools an
 [Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)  
 [Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
 [TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)  
+</details>
 
-
-----------
-**CORRECTIONAL RESIDENTIAL SUBSTANCE USE AND SUD TREATMENT**
+<details>
+	<summary>CORRECTIONAL RESIDENTIAL SUBSTANCE USE AND SUD TREATMENT</summary>
 
 **Description:**  Substance use treatment programs in state prisons and local jails integrate more comprehensive programming for those in correctional institutions, as well as offer community-based aftercare services.[^82]  Ideally, this residential substance use treatment allows incarcerated offenders separation from the general population in order to focus exclusively on substance abuse and substance-related issues. The [Residential Substance Abuse Treatment (RSAT)](https://www.ncjrs.gov/pdffiles1/bja/206269.pdf) program, through the Bureau of Justice Assistance, grants funding to all states to administer funds for RSAT in prisons, which may incorporate MAT.[^83]   Further, the Federal Bureau of Prisons (BOP) currently implements [Residential Drug Abuse Programs (RDAP)](https://www.fd.org/docs/select-topics---bop/BOP-RDAP-Chart-6-14-10-modified.pdf) within their institutions—a nine-month, 500-hour program with separate housing, focused on substance use treatment. RDAP also incorporates Community Transition Drug Abuse Treatment/Community Treatment Services that integrates reentry services post-release.[^84]
 
@@ -526,9 +529,10 @@ For more information on validated and reliable substance use assessment tools an
 [Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
 [TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)    
 
+</details>
 
-----------
-## INCARCERATION-BASED INDIVIDUAL AND GROUP SUBSTANCE USE AND SUD TREATMENT
+<details>
+	<summary>INCARCERATION-BASED INDIVIDUAL AND GROUP SUBSTANCE USE AND SUD TREATMENT</summary>
 
 **Description:** The same evidence-informed cognitive-behavioral therapies and MAT programs can be used in jails and prisons. Unfortunately, most prisons and jails do not have an adequate quality or quantity of treatment.[^97]  Researchers have identified several feasible corrections-based SUD and substance misuse treatment programs. 
 
@@ -633,9 +637,10 @@ For more information on validated and reliable substance use assessment tools an
 [Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
 [TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
 
------
+</details>
 
-## PHARMACOLOGICAL METHODS:MEDICATION-ASSISTED TREATMENT--RESEARCH UPDATE
+<details>
+<summary>RESEARCH UPDATE--PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT</summary>
 
 New research indicates patient success in the use of extended-release naltrexone (Vivitrol®) for medication-assisted treatment. While buprenorphine and methadone remain the gold standard for treatment of opioid use disorders (OUDs), naltrexone appears to have a place in treating OUDs with some success.[^109]
 
@@ -663,7 +668,7 @@ Overall, researchers found:
 + Overall, there was similar short-term abstinence from illicit drugs for both groups, including illicit use. [^113]
 
 These studies support the need for pharmacological options to treat substance use disorders when medically appropriate, including opioid use disorders. Treatment should be individualized and increased patient access is needed for all medications: methadone, buprenorphine, and naltrexone. 
-
+</details>
 
 [^1]: Rempel, M., Zweig, J. M., Lindquist, C. H., Roman, J. K., Rossman, S. B., & Kralstein, D. (2012). Multi-site evaluation demonstrates effectiveness of adult drug courts. *Judicature*, 95(4), 154-157.
 

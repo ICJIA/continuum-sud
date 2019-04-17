@@ -10,110 +10,114 @@ displayTimelineTitle: true
 color: 'cyan darken-4'
 sidebar: true
 ---
-**Description:**  Police officers are often called on to respond to incidents in which an individual is experiencing a mental health crisis. Many police departments have developed specialized responses for the incidents to divert individuals away from the criminal justice system and connect them to mental health treatment. Two common specialized response models are: 
 
-- The crisis intervention team (CIT) model involves specialized training for officers and partnerships with mental health service providers in the community. 
-- The co-responder model utilizes mental health professionals in the field with officers to assist in de-escalating crisis situations and facilitate access to treatment.[^1]  
+This intercept involves post-arrest, initial detention, or initial court hearings. This includes pre-trial programs and public defender or prosecution programs.
 
-Departments may incorporate mental health services in other ways for crisis incidents. However, empirical research is limited outside of the CIT and co-responder models.[^2]
+<details>
+<summary>PRE-BOOKING COMMUNITY-BASED DIVERSION</summary>
+	
+**Description:** Police may exercise discretion to divert individuals with potential SUDs or other substance use issues in lieu of standard jail booking and criminal justice prosecution for non-violent, non-felony offenses.[^1]  Based on the [Law Enforcement Assisted Diversion (LEAD) program](http://www.leadbureau.org/) out of Seattle, an arresting officer goes through initial arrest protocols (arresting person, writing case report, collecting evidence), but then flags the case and asks the prosecutor to not immediately file charges.[^2]  The arrestee is assigned a case manager who facilitates an entry evaluation and refers them to a variety of services that can include 
 
+ - substance use treatment and/or services; 
+ - housing assistance;
+ - job and educational services; 
+ - legal advocacy; and/or 
+ - counseling.[^3]  
+
+In some cases, the individual may be prosecuted if he/she does not initiate services within 30 days from entry evaluation.[^4]  Programs may operate similar to this, but as deferred prosecution programs. However, there is limited research related to deferred prosecution programs.
+
+
+----------
 **Goals:**
 
-- Reduce unnecessary involvement with the criminal justice system.[^3]
-- Increase access to mental health treatment.[^4]
-- Reduce injuries to individuals in crisis.[^5]
-- Reduce injuries to officers.[^6]
-- More efficient disposition of mental health calls for service.[^7]
-
-**Eligibility:**
-Officers have significant discretion when determining the disposition of a call for service, and eligibility for pre-arrest diversion following a mental health crisis incident is also often dependent on officer discretion.[^8] Examples of eligibility criteria for pre-arrest diversion include:
-
-- Exhibiting psychiatric symptoms.
-- Nonviolent alleged offense.[^9]
-
-Note: Emergency communications personnel should be trained to identify calls for service related to individuals experiencing a mental health crisis and trained to dispatch a CIT officer or a co-responder team.[^10]
-
-**Research Evidence:**
-Despite widespread adoption of the CIT model in police departments across the country, there is a dearth of rigorous research evaluating these programs. CIT can be considered evidence-based with respect to the outcome of improved officer knowledge and attitudes toward individuals with MHDs.[^11] More research is required before CIT can be considered evidence-based in achieving other outcomes. Research findings related to CIT outcomes include the following:
-
-- CIT-trained officers have greater knowledge of MHDs and more positive attitudes toward individuals with MHDs.[^12]
-- Officers with CIT training are more likely to facilitate access to mental health treatment and services.[^13]
-- There is no evidence to suggest CIT officers are less likely to arrest individuals with MHDs.[^14]
-- At least one study suggests CIT-trained officers are less likely to use force in response to mental health crisis incidents.[^15]
-- There is no evidence to suggest individuals receiving a specialized response are less likely to reoffend.[^16]
-
-The [Washington State Institute for Public Policy](http://www.wsipp.wa.gov/) (WSIPP) examines programs to analyze the ratio of benefits to costs in monetary values. After examining pre-arrest diversion programs that follow the CIT model, WSIPP reported that the benefit-to-cost ratio was a loss of $2.94 for every $1 spent.[^17] The group also noted that there was only a 1-percent chance that this type of program would produce benefits greater than the total cost.[^18]
-
-Co-responder programs have been less frequently researched; however, emerging evidence suggests that this model has potential to be effective in achieving the desired outcomes of pre-arrest diversion for individuals experiencing a mental health crisis. A review of co-responder programs found the model to be successful in:
-
-- Connecting individuals in crisis with community mental health services.
-- Reducing police department resources expended on mental health crisis incidents.[^19]
-
-There is a small amount of evidence regarding the co-responder model’s impact on other outcomes, showing:
-
-- Police attitudes toward individuals with MHDs improved.[^20]
-- The number of individuals admitted to mental health facilities decreased.[^21]
-- More positive perceptions were created of both the police response and the mental health system for officers and consumers alike.[^22]
-
-**Examples in the Field:**  Police departments across the nation are adopting the CIT program model at a fast pace.[^23] Programs that have been evaluated thoroughly include:
-
--	[Crisis Intervention Team (CIT) Program](http://directives.chicagopolice.org/directives/data/a7a57bf0-12d103eb-84112-d103-f1bd3a851b8bc48e.html) in Chicago.
--	[The “Memphis Model” Crisis Intervention Team](https://www.memphispolice.org/initiatives.asp), in Memphis, Tenn.
+ - Divert to treatment rather than jail and prosecution to individuals with SUDs.
+ - Intervene in cycle of substance use, crime, and criminal justice involvement.
+ - Reduce recidivism.
+ - Decrease monetary costs for criminal justice system. 
+ - Improve public safety.
+ - Improve public health. 
+ - Reduce reliance on formal criminal justice processing.[^5] 
 
 
-While co-responder programs are less common, well-established programs include:
+----------
+**Eligibility:** Example eligibility criteria from the [Law Enforcement-Assisted Diversion (LEAD)](http://www.leadbureau.org/) program out of Seattle, Washington is as follows:
 
--	Mental Health Crisis Unit in Knoxville, Tenn.[^24]
--	[Mobile Crisis Service](https://dekcsb.org/crisis/) in DeKalb County, Ga. 
--	[Systemwide Mental Assessment Response Team (SMART)](http://www.lapdonline.org/detective_bureau/content_basic_view/51704) in Los Angeles, Calif.
+ - Individual suspected of a controlled substance offense, prostitution offense, or minor property crime offenses related to substance use (non-violent and non-felony).
+ - Police believe individual is amenable to diversion.
+ - Offense does not involve delivery, possession with intent to deliver, or dealing with intent to profit.
+ - Offense does not involve exploitation of minors in dealing or distributing drugs.
+ - Offense does not involve promotion of prostitution.
+ - Individual has previous convictions for murder, arson, robbery, assault, kidnapping, sex offense, or attempt of any of these crimes (this may vary by department and may include other offenses like domestic violence within a specific time-frame). 
+ - Individual has participated or is currently participating in other criminal justice diversion programs.
+ - The individual is willing to participate.[^6] 
 
-**Additional Resources:**
-[Police-Mental Health Collaboration Toolkit](https://pmhctoolkit.bja.gov/home): Bureau of Justice Assistance, U.S. Department of Justice & Council of State Governments
+Police typically have full discretion for referral to program based on initial contact with individual. Further, police may also refer known substance users from previous contacts and increasingly engage in outreach efforts.[^7]   
 
-[^1]: Gatens, A. (2018). _Responding to individuals experiencing mental health crises: Police-involved programs._ Chicago, IL: Illinois Criminal Justice Information Authority.
 
-[^2]: Gatens, A. (2018). _Responding to individuals experiencing mental health crises: Police-involved programs._ Chicago, IL: Illinois Criminal Justice Information Authority.
+----------
+**Research findings:** To date, the [Law Enforcement-Assisted Diversion (LEAD) program](http://www.leadbureau.org/resources) in Seattle has been the only such program evaluated extensively with a report on [recidivism](http://media.wix.com/ugd/6f124f_8183d4c04a09456cb48f92875ab2e188.pdf) , [criminal and legal system costs and utilization](http://media.wix.com/ugd/6f124f_2f66ef4935c04d37a11b04d1998f61e2.pdf), and [client outcomes](http://media.wix.com/ugd/6f124f_dbde96f835db4526abf7bfda03d0040f.pdf) (housing, employment, income/benefits). LEAD is a ***promising*** program; there currently is not enough substantial research to identify it as evidence-based. During the first six months of evaluation, 30 percent of LEAD participants were less likely to be arrested compared to the control group.[^8]  After a little more than four years, participants were 58 percent less likely to be arrested compared to the control group after their entry evaluation.[^9]  Participants subsequent to entry into LEAD, on average, demonstrated significantly lower likelihood of 
 
-[^3]: Canada, K. E., Angell, B., & Watson, A. C. (2010). Crisis intervention teams in Chicago: Successes on the ground. _Journal of Police Crisis Negotiations, 10_(1-2), 86-100.; Cross, A. B., Mulvey, E. P., Schubert, C. A., Griffin, P. A., Filone, S., Winckworth-Prejsnar, K., …, & Heilbrun, K. (2014). An agenda for advancing research on crisis intervention teams for mental health emergencies. _Psychiatric Services, 65_(4), 530-536.
+ - felony cases (64 percent); 
+ - King County jail bookings (69 percent); 
+ - days in jail (68 percent); and 
+ - days in state prison (87 percent).[^10]  
 
-[^4]: Canada, K. E., Angell, B., & Watson, A. C. (2010). Crisis intervention teams in Chicago: Successes on the ground. _Journal of Police Crisis Negotiations, 10_(1-2), 86-100.; Cross, A. B., Mulvey, E. P., Schubert, C. A., Griffin, P. A., Filone, S., Winckworth-Prejsnar, K., …, & Heilbrun, K. (2014). An agenda for advancing research on crisis intervention teams for mental health emergencies. _Psychiatric Services, 65_(4), 530-536.
+In addition, it costs less to connect people to services via LEAD than it does to formally process them into the criminal justice system.[^11]  The cost of LEAD participants from pre- to post entry evaluation, cost reductions were \$2,100, whereas the control group (system-as-usual) demonstrated cost increases (\$5,961). After initial start-up of LEAD, program costs decreased from \$899 per month to \$532 per month.[^12]  Further, the program had a positive effect on participants’ income and housing.[^13]
 
-[^5]: Canada, K. E., Angell, B., & Watson, A. C. (2010). Crisis intervention teams in Chicago: Successes on the ground. _Journal of Police Crisis Negotiations, 10_(1-2), 86-100.; Cross, A. B., Mulvey, E. P., Schubert, C. A., Griffin, P. A., Filone, S., Winckworth-Prejsnar, K., …, & Heilbrun, K. (2014). An agenda for advancing research on crisis intervention teams for mental health emergencies. _Psychiatric Services, 65_(4), 530-536.
 
-[^6]: Canada, K. E., Angell, B., & Watson, A. C. (2010). Crisis intervention teams in Chicago: Successes on the ground. _Journal of Police Crisis Negotiations, 10_(1-2), 86-100.; Cross, A. B., Mulvey, E. P., Schubert, C. A., Griffin, P. A., Filone, S., Winckworth-Prejsnar, K., …, & Heilbrun, K. (2014). An agenda for advancing research on crisis intervention teams for mental health emergencies. _Psychiatric Services, 65_(4), 530-536.
+----------
+**Examples in the field:**  Many agencies are developing programs similar to the LEAD program in Seattle and the following are operational: 
 
-[^7]: Canada, K. E., Angell, B., & Watson, A. C. (2010). Crisis intervention teams in Chicago: Successes on the ground. _Journal of Police Crisis Negotiations, 10_(1-2), 86-100.; Cross, A. B., Mulvey, E. P., Schubert, C. A., Griffin, P. A., Filone, S., Winckworth-Prejsnar, K., …, & Heilbrun, K. (2014). An agenda for advancing research on crisis intervention teams for mental health emergencies. _Psychiatric Services, 65_(4), 530-536.
+ - Santa Fe, N. M.
+ - Albany, N.Y.
+ - Huntington, W. Va. 
+ - Canton, Ohio. 
 
-[^8]: Munetz, M. R., & Griffin, P. A. (2006). Use of the sequential intercept model as an approach to decriminalization of people with serious mental illness. _Psychiatric Services, 57_(4), 544-549.
+Several others are in final stages of implementation: 
 
-[^9]: Broner, N., Lattimore, P. K., Cowell, A. J., & Schlenger, W. E. (2004). Effects of diversion on adults with co‐occurring mental illness and substance use: Outcomes from a national multi‐site study. _Behavioral Sciences & the Law, 22_(4), 519-541.
+ - Baltimore, Md. 
+ - Portland, Maine. 
+ - San Francisco.
 
-[^10]: Dupont, R., Cochran, S., & Pillsbury, S. (2007). _Crisis intervention team core elements._ Memphis, TN: University of Memphis. 
 
-[^11]: Watson, A. C., Compton, M. T., & Draine, J. N. (2017). The crisis intervention team (CIT) model: An evidence‐based policing practice?. _Behavioral Sciences & the Law, 35_(5-6), 431-441.
+----------
+**Read More**
 
-[^12]: Compton, M. T., Esterberg, M. L., McGee, R., Kotwicki, R. J., & Oliva, J. R. (2006). Crisis intervention team training: Changes in knowledge, attitudes, and stigma related to schizophrenia. _Psychiatric Services_, 57(8), 1199-1202.; Ellis, H. A. (2014). Effects of a Crisis Intervention Team (CIT) training program upon police officers before and after Crisis Intervention Team training. _Archives of Psychiatric Nursing, 28_, 10–16. doi:10.1016/j.apnu.2013.10.003
+[Rethinking law enforcement’s role on drugs: Community drug intervention and diversion efforts](http://www.icjia.org/articles/rethinking-law-enforcement-s-role-on-drugs-community-drug-intervention-and-diversion-efforts)
 
-[^13]: Steadman, H. J., Deane, M. W., Borum, R., & Morrissey, J. P. (2000). Comparing outcomes of major models of police responses to mental health emergencies. _Psychiatric Services, 51_(5), 645-649.
+For more information on developing deflection/diversion initiatives:
 
-[^14]: Watson, A. C., Ottati, V. C., Morabito, M., Draine, J., Kerr, A. N., & Angell, B. (2010). Outcomes of police contacts with persons with mental illness: The impact of CIT. _Administration and Policy in Mental Health and Mental Health Services Research, 37_(4), 302-317.
+[COPS: Building Successful Partnerships between Law Enforcement and Public Health](https://ric-zai-inc.com/Publications/cops-p356-pub.pdf)
+[LEAD National Support Bureau](www.leadbureau.org)
+[Police Assisted Addiction and Recovery Initiative](https://paariusa.org)
 
-[^15]: Bower, D. L., & Pettit, W. (2001). The Albuquerque police department’s crisis intervention team: A report card. _FBI Law Enforcement Bulletin, 70_, 1.
+</details>
 
-[^16]: Cowell, A. J., Broner, N., & Dupont, R. (2004). The cost-effectiveness of criminal justice diversion programs for people with serious mental illness co-occurring with substance abuse: Four case studies. _Journal of Contemporary Criminal Justice, 20_(3), 292-314.
 
-[^17]: Washington State Institute for Public Policy. (2017). _Police diversion for individuals with mental illness (pre-arrest). Benefit-cost results._ Retrieved from http://www.wsipp.wa.gov/BenefitCost/Program/738
+[^1]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.; There are currently several other types of law enforcement deflection and diversion programs and initiatives; however, there is currently none or not enough research or evidence to report identify them as evidence-informed programs due to lack of evaluation research. These include: STEER, Civil Citations Pre-Arrest Diversion, the Arlington Outreach Model, and Conversations for Change.
+	
+[^2]: Beckett, K. (2014). *Seattle's law enforcement assisted diversion program: Lessons learned from the first two years.* Seattle, WA: University of Washington.; Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+	
+[^3]: olice Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
 
-[^18]: Washington State Institute for Public Policy. (2017). _Police diversion for individuals with mental illness (pre-arrest). Benefit-cost results._ Retrieved from http://www.wsipp.wa.gov/BenefitCost/Program/738
+[^4]: Collins, S.E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Recidivism report*. Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction Research and Treatment Lab.; National Support Bureau. (n.d.). *What is LEAD?* Retrieved from http://bit.ly/2qftnzT.
 
-[^19]: Shapiro, G. K., Cusi, A., Kirst, M., O’Campo, P., Nakhost, A., & Stergiopoulos, V. (2015). Co-responding police-mental health programs: a review. _Administration and Policy in Mental Health and Mental Health Services Research, 42_(5), 606-620.
+[^5]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
 
-[^20]: Shapiro, G. K., Cusi, A., Kirst, M., O’Campo, P., Nakhost, A., & Stergiopoulos, V. (2015). Co-responding police-mental health programs: a review. _Administration and Policy in Mental Health and Mental Health Services Research, 42_(5), 606-620.
+[^6]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.; National Support Bureau. (n.d.). *What is LEAD?* Retrieved from http://bit.ly/2qftnzT.
 
-[^21]: Puntis, S., Perfect, D., Kirubarajan, A., Bolton, S., Davies, F., Hayes, A., ... & Molodynski, A. (2018). A systematic review of co-responder models of police mental health ‘street’ triage. _BMC Psychiatry, 18_(1), 256.
 
-[^22]: Shapiro, G. K., Cusi, A., Kirst, M., O’Campo, P., Nakhost, A., & Stergiopoulos, V. (2015). Co-responding police-mental health programs: a review. _Administration and Policy in Mental Health and Mental Health Services Research, 42_(5), 606-620.
+[^7]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
 
-[^23]: Cross, A. B., Mulvey, E. P., Schubert, C. A., Griffin, P. A., Filone, S., Winckworth-Prejsnar, K., …, & Heilbrun, K. (2014). An agenda for advancing research on crisis intervention teams for mental health emergencies. _Psychiatric Services, 65_(4), 530-536.
+[^8]: Beckett, K. (2014). *Seattle's law enforcement assisted diversion program: Lessons learned from the first two years*. Seattle, WA: University of Washington.; Collins, S.E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Recidivism report*. Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction.
 
-[^24]: Shapiro, G. K., Cusi, A., Kirst, M., O’Campo, P., Nakhost, A., & Stergiopoulos, V. (2015). Co-responding police-mental health programs: a review. _Administration and Policy in Mental Health and Mental Health Services Research, 42_(5), 606-620.
+[^9]: Collins, S.E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Recidivism report*. Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction.; Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+
+[^10]: Collins, S. E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Criminal justice and legal system utilization and associated costs.* Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction.
+
+[^11]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+
+[^12]: Collins, S. E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Criminal justice and legal system utilization and associated costs.* Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction.
+
+[^13]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+

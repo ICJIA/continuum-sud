@@ -11,7 +11,10 @@ color: 'cyan darken-4'
 sidebar: true
 ---
 
-## OPIOID OVERDOSE REVERSAL
+This intercept involves first contact with the criminal justice system, including dispatch, law enforcement, and emergency services or crisis response teams.
+
+<details>
+	<summary>OPIOID OVERDOSE REVERSAL</summary>
 
 **Description:**  Naloxone, a medication that can be administered by nasal spray or injection, can be administered to an individual to reverse an opioid overdose. Naloxone blocks opioid receptor sites in the brain for up to 90 minutes to reverse respiratory distress.[^1]  Use of naloxone is and effective practice in reducing overdose fatalities. However, further research should be conducted as to follow-ups to non-fatal overdoses and how those individuals may or may not benefit from connection to appropriate services.
 
@@ -45,9 +48,11 @@ sidebar: true
 [Harm Reduction Overview and Understanding Naloxone](http://harmreduction.org/issues/overdose-prevention/overview/overdose-basics/understanding-naloxone/)
 [Harm Reduction Coalition](http://harmreduction.org/issues/overdose-prevention/tools-best-practices/naloxone-program-case-studies/chicago-recovery-alliance/)
 
-
+</details>
 ----------
-## LAW ENFORCEMENT DEFLECTION INITIATIVES
+
+<details>
+	<summary>LAW ENFORCEMENT DEFLECTION INITIATIVES</summary>
 
 **Description:** Law enforcement deflection initiatives help individuals with SUDs access treatment. Individuals—without fear of arrest—can ask for assistance in receiving substance use treatment.[^6]  A law enforcement officer completes an intake and arranges for transport to services for further clinical assessment as to appropriate treatment (or clinician may be on-site at the police station), typically by a volunteer.[^7]  These initiatives feature collaboration between law enforcement, the community, hospitals, public health providers, substance use treatment providers, and other community service providers.
 
@@ -88,9 +93,10 @@ The [Arlington Outreach Model](http://paariusa.org/arlington/) (Arlington, Mass.
 [Rethinking law enforcement’s role on drugs: Community drug intervention and diversion efforts](http://www.icjia.org/articles/rethinking-law-enforcement-s-role-on-drugs-community-drug-intervention-and-diversion-efforts)
 [COPS: Building Successful Partnerships between Law Enforcement and Public Health](https://ric-zai-inc.com/Publications/cops-p356-pub.pdf)
 
-
+</details>
 ----------
-## PRE-BOOKING COMMUNITY-BASED DIVERSION
+<details>
+	<summary>PRE-BOOKING COMMUNITY-BASED DIVERSION</summary>
 **Description:** Police may exercise discretion to divert individuals with potential SUDs or other substance use issues in lieu of standard jail booking and criminal justice prosecution for non-violent, non-felony offenses.[^11]  An arresting officer goes through initial arrest protocols (arresting person, writing case report, collecting evidence), but then flags the case and asks the prosecutor to not immediately file charges.[^12]  The arrestee is assigned a case manager who facilitates an entry evaluation and refers them to a variety of services that can include 
 
  - substance use treatment and/or services; 
@@ -153,7 +159,7 @@ Several others are in final stages of implementation:
 [LEAD National Support Bureau](http://www.leadbureau.org/)
 [Police Assisted Addiction and Recovery Initiatives](http://paariusa.org/)
 
-
+</details>
 
 [^1]: Kim, D., Irwin, K. S., & Khoshnood, K. (2009). Expanded access to naloxone: Options for critical response to the epidemic of opioid overdose mortality. *American Journal of Public Health*, 99(3), 402-427.
 

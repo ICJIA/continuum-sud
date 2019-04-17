@@ -22,6 +22,13 @@ module.exports = {
     y: true
   },
   dateFormat: "MMMM DD, YYYY",
+  authors: [
+    {
+      name: "Lily Gleicher",
+      url: "http://www.icjia.org/biographies/lily-gleicher"
+    }
+  ],
+  lastUpdate: "2019-04-16",
   siteConfig: {
     pages: {
       type: "page",
@@ -32,7 +39,7 @@ module.exports = {
       sortOn: "position"
     }
   },
-  lastUpdate: "2019-04-16",
+
   primaryColor: "cyan darken-4",
   theme: {
     dark: {

@@ -10,11 +10,13 @@ displayTimelineTitle: true
 color: 'cyan darken-4'
 sidebar: true
 ---
+This intercept involves probation and parole programs and services. This includes connecting individuals to appropriate community-based services and resources.
 
 
-## COGNITIVE AND BEHAVIORAL THERAPIES[^1]
+<details>
+	<summary>COGNITIVE AND BEHAVIORAL THERAPIES</summary>
 
-**Description:** Cognitive and behavioral therapies include those that reinforce and provide incentives for abstinence, enhancing life and coping skills surrounding situations and emotions that may trigger drug use, and help change attitudes and behaviors related to substance use. Some therapies focus more on the behavioral aspect of substance use; some focus more on the cognitive aspect of substance use. Others use both approaches, called cognitive-behavioral therapy. Cognitive-behavioral therapy (CBT) is a general classification of therapeutic techniques that focus on two aspects: 
+**Description:** Cognitive and behavioral therapies include those that reinforce and provide incentives for abstinence, enhancing life and coping skills surrounding situations and emotions that may trigger drug use, and help change attitudes and behaviors related to substance use. Some therapies focus more on the behavioral aspect of substance use; some focus more on the cognitive aspect of substance use. Others use both approaches, called cognitive-behavioral therapy.[^1] Cognitive-behavioral therapy (CBT) is a general classification of therapeutic techniques that focus on two aspects: 
 
  - The thought processes, attitudes, and values underlying antisocial behavior (cognitive).
  - The observable behaviors (behavioral).
@@ -43,7 +45,6 @@ In addition, it is also beneficial for treatment to be supplemented with other s
  - Educational and vocational training.
  - Self-help or peer recovery support services.
  - Mental health services. [^6] 
-
 
 ----------
 
@@ -155,10 +156,10 @@ For more information on validated and reliable substance use assessment tools an
 [Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)  
 [Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
 [TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
+</details>
 
-
-----------
-## PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT (MAT)
+<details>
+	<summary>PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT (MAT)</summary>
 
 **Description:**   [Medication-Assisted Treatment (MAT) programs](http://www.samhsa.gov/medication-assisted-treatment/treatment) incorporate the use of medicine to treat opioid or alcohol use disorders, in conjunction with behavioral therapies or counseling to treat individuals with SUDs.[^25]  With regard to opioids, the use of medication alone is called opioid replacement therapy (ORT), which alone, can also be effective to treat opioid use disorders (OUDs).[^26] MAT programs help with treatment retention and abstinence by decreasing withdrawal symptoms and cravings; increasing quality of life; reducing risk of HIV and hepatitis C; reducing risky behaviors associated with substance use; as well as decreasing risk for overdose.[^27]   MAT programs can be in the community (healthcare office, methadone maintenance clinic, primary care physicians’ office, certified opioid treatment programs (OTPs)) or [correctional settings](http://nicic.gov/topics/5288-medication-assisted-treatment-mat-in-corrections).[^28]  Each type of medication for MAT is Food and Drug Administration (FDA) approved and is most effective when coupled with other counseling or therapy services for SUDs.[^29]  
 
@@ -303,9 +304,10 @@ For more information on validated and reliable substance use assessment tools an
 [Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)  
 [Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
 [TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
-
+</details>
 -------
-## MEDICATION-ASSISTED TREATMENT: RESEARCH UPDATE
+<details>
+	<summary> RESEARCH UPDATE--PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT (MAT)</summary>
 
 New research indicates patient success in the use of extended-release naltrexone (Vivitrol®) for medication-assisted treatment. While buprenorphine and methadone remain the gold standard for treatment of opioid use disorders (OUDs), naltrexone appears to have a place in treating OUDs with some success.[^62]
 
@@ -333,7 +335,7 @@ Overall, researchers found:
 + Overall, there was similar short-term abstinence from illicit drugs for both groups, including illicit use. [^66]
 
 These studies support the need for pharmacological options to treat substance use disorders when medically appropriate, including opioid use disorders. Treatment should be individualized and increased patient access is needed for all medications: methadone, buprenorphine, and naltrexone. 
-
+</details>
 
 [^1]: While this list provides examples of evidence-informed behavioral therapies, it is not all encompassing. For information on other evidence-informed cognitive- and/or behavioral-based programs, use the national resources under additional resources at the bottom of this continuum.
 

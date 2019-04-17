@@ -11,8 +11,12 @@ color: 'cyan darken-4'
 sidebar: true
 ---
 
-## FAMILY-BASED PREVENTION PROGRAMS
+This intercept involves community partnerships, prevention, and behavioral health services. The goal is to provide the earliest intervention effort to prevent criminal justice involvement.
 
+
+<details>
+<summary>FAMILY-BASED PREVENTION PROGRAMS</summary>
+	
 **Description:** Families are important factors in the lives of youth; parenting skills and the modeling of prosocial behavior and attitudes can influence youths’ substance use.[^1]  Factors that may increase a youth’s likelihood to exhibit antisocial behaviors, such as substance use include
 
  - inconsistent and harsh punishment practices;
@@ -131,10 +135,12 @@ Research indicates MST can effectively
  - decrease in multiple drug use at 12-month follow-ups.[^33] 
 
 Other effective evidence-informed family therapies include [**Functional Family Therapy (FFT)**](http://www.fftllc.com/), [**Treatment Foster Care Oregon**](http://www.tfcoregon.com/), and [**Nurse-Family Partnership**](https://www.nursefamilypartnership.org/).
+</details>
 
 
-----------
-## SCHOOL-BASED PREVENTION PROGRAMS
+<details>
+<summary>SCHOOL-BASED PREVENTION PROGRAMS</summary>
+	
 **Description**: These programs target factors related to youth substance use, including peers and attachment to conventional institutions (e.g. school, community), as well as opportunities like leisure activities, religious organizations.[^34]  
 
 **Goals:**
@@ -228,10 +234,10 @@ The program develops skills in
  - reduce blood-alcohol content levels;[^55]   
  - reduce quantity and frequency of alcohol use after 4-years;[^56]  and
  - decrease negative consequences associated with drinking when compared to a control group.[^57] 
+</details>
 
-
-----------
-## MULTI-MODAL PREVENTION PROGRAMS
+<details>
+<summary>MULTI-MODAL PREVENTION PROGRAMS</summary>
 
 **Description:** Many programs identified previously incorporate more than one mode of prevention, though tend to focus on one in particular. Multi-modal programs incorporate several components—community, school, family, and individual—to target for substance use prevention. Below are other prevention programs defined as multi-modal.[^58]
 
@@ -240,7 +246,6 @@ The program develops skills in
  - Increase protective factors and youth resiliency. 
  - Decrease risk factors.
  - Decrease substance use.
-
 
 ----------
 ### Multi-Modal Prevention Program Examples and Research
@@ -303,8 +308,9 @@ Another study found lower levels of risk factors, including delinquency and alco
  - slowed down rate of substance use over adolescence; and
  - significant decrease in  average use of tobacco, alcohol, and illicit drug use through 12th grade.[^72] 
 
+</details>
 
-> 
+
 [^1]: Griffin, K. W., & Botvin, G. J. (2010). Evidence-based interventions for preventing substance use disorders in adolescents. *Child and Adolescent Psychiatric Clinics of North America, 19*(3): 505-526. 
 
 [^2]: Griffin, K. W., & Botvin, G. J. (2010). Evidence-based interventions for preventing substance use disorders in adolescents. *Child and Adolescent Psychiatric Clinics of North America*, 19(3): 505-526. 
@@ -448,6 +454,7 @@ Another study found lower levels of risk factors, including delinquency and alco
 [^71]: Crimesolutions.gov. (2011). *Program profile: Linking the interests of families and teachers (LIFT)*. Washington, DC: National Institute of Justice, Office of Justice Programs. Retrieved from http://bit.ly/2oOZCGE.
 
 [^72]: DeGarmo, D.S., Eddy, J. M., Reid, J. B., & Fetrow, R. A. (2009). Evaluating mediators of the impact of the linking the interests of families and teachers (LIFT) multimodal preventive intervention on substance use initiation and growth across adolescence. *Prevention Science,* 10: 208-220.
+
 
 
 

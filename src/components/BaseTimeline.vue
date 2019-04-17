@@ -30,7 +30,10 @@
                 :data-aos="getDirection(index)"
               >
                 <template v-slot:opposite v-if="item.displayTimelineTitle">
-                  <h3 style="text-transform: uppercase; color: #eee">
+                  <h3
+                    style="text-transform: uppercase; color: #eee"
+                    :data-aos="getDirection(index)"
+                  >
                     {{ item.timelineTitle }}
                   </h3>
                 </template>
@@ -38,6 +41,9 @@
                   <v-card-title
                     class="headline grey lighten-3 lato"
                     style="color: #333"
+                    ><span
+                      v-if="$vuetify.breakpoint.xs || $vuetify.breakpoint.sm"
+                      >{{ item.timelineTitle }}: </span
                     >{{ item.title }}</v-card-title
                   >
                   <v-card-text class="excerpt white lato" style="color: #333">
