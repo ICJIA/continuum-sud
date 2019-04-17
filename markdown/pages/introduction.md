@@ -11,7 +11,7 @@ menuTitle: 'Introduction'
 displayAuthor: true
 ---
 
-In the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse.[^1]  Of those with SUDs, just over 10 percent ultimately receive treatment.[^2]  On average, costs incurred in the United States from alcohol and drug use due to lost work productivity, health care expenses, motor vehicle accidents, and criminal justice costs exceeds $400 billion. Almost half of the cost is at the taxpayers’ expense.[^3] 
+<span class="drop">I</span>n the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse.[^1]  Of those with SUDs, just over 10 percent ultimately receive treatment.[^2]  On average, costs incurred in the United States from alcohol and drug use due to lost work productivity, health care expenses, motor vehicle accidents, and criminal justice costs exceeds $400 billion. Almost half of the cost is at the taxpayers’ expense.[^3] 
 
 Of the 20 million individuals with SUDs, a subset is involved with the criminal justice system. More than half of the 2.2 million individuals housed in U.S. prisons and jails meet the clinical diagnosis criteria for SUDs.[^4]  Seventy-eight percent of violent crimes and 77 percent of property crimes involve drugs and/or alcohol.[^5]  The government spends an estimated $74 billion dollars on court processing, community supervision, and imprisonment of individuals with SUDs, but just 1 percent of that amount on prevention and treatment for these individuals.[^6]  In addition, about 11 percent of prisoners with SUDs or substance misuse receive treatment.[^7]
 
