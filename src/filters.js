@@ -1,13 +1,5 @@
 import Vue from "vue";
 
-Vue.filter("toUpper", function(value) {
-  return value.toUpperCase();
-});
-
-Vue.filter("toLower", function(value) {
-  return value.toLowerCase();
-});
-
 Vue.filter("format", function(d) {
   var monthNames = [
     "January",
