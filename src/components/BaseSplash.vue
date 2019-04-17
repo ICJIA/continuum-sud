@@ -1,7 +1,7 @@
 <template>
   <v-parallax
     dark
-    src="/splash-cropped.png"
+    src="/splash-cropped-min.png"
     v-if="$vuetify.breakpoint.md || $vuetify.breakpoint.lg"
     height="500"
   >
