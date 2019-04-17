@@ -231,7 +231,7 @@ ol.footnotes-list {
 summary {
   font-weight: bold;
   text-transform: uppercase;
-  font-size: 22px;
+  font-size: 20px;
   margin-bottom: 35px;
 }
 

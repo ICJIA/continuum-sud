@@ -24,7 +24,7 @@ module.exports = {
   dateFormat: "MMMM DD, YYYY",
   authors: [
     {
-      name: "Lily Gleicher",
+      name: "Lily Gleicher, Ph.D.",
       url: "http://www.icjia.org/biographies/lily-gleicher"
     }
   ],
