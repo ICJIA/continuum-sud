@@ -20,7 +20,7 @@ let md = require("markdown-it")({
   .use(require("markdown-it-footnote"))
   .use(require("markdown-it-named-headers"))
   .use(require("markdown-it-attrs"));
-
+console.log(config.markdownItOptions);
 /**
  * Sort array of objects by property
  *
@@ -69,20 +69,24 @@ const readFiles = dirname => {
               obj[attr] = obj.attributes[attr];
             }
             /**
-             * ... delete obj.attributes ...
+             * ... delete attributes ...
              */
             delete obj.attributes;
 
             let html = md.render(obj.body);
             html = html.replace(/(\r\n|\n|\r)/gm, "");
             /**
-             * replace footnote ids with unique id: ${slug}-fn
+             * ... replace footnote ids with unique id: ${slug}-fn...
              */
             html = html.replace(/id="fn/gm, `id="${obj.slug}-fn`);
             html = html.replace(
               /href="#fn/gm,
               `class='footnote-link' href="#${obj.slug}-fn`
             );
+            /**
+             * ... surround references with details/summary...
+             */
+
             html = html.replace(
               /<section class="footnotes">/gm,
               `<details><summary>References</summary><section class="footnotes">`

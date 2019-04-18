@@ -9,7 +9,7 @@
           author.name
         }}</a> </span
       >&nbsp;&nbsp;|&nbsp;&nbsp;<span style="color: #666"
-        >Updated: {{ config.lastUpdate | format }}</span
+        >Updated: {{ config.meta.lastUpdate | format }}</span
       ><span v-if="print"
         >&nbsp;&nbsp;|&nbsp;&nbsp;<v-btn
           to="/print-friendly"

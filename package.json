@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "envfile": "^3.0.0",
     "front-matter": "^3.0.1",
+    "lodash": "^4.17.11",
     "markdown-it": "^8.4.2",
     "markdown-it-attrs": "^2.3.2",
     "markdown-it-footnote": "^3.0.1",

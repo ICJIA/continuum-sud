@@ -28,14 +28,21 @@ module.exports = {
       url: "http://www.icjia.org/biographies/lily-gleicher"
     }
   ],
-  lastUpdate: "2019-04-16",
+
   meta: {
     url: "https://continuum-drug.netlify.com",
     title:
       "Reducing Substance Abuse Disorders and Related Offending: A Continuum of Evidence-Informed Practices in the Criminal Justice System",
     description:
       "In the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse. Of those with SUDs, just over 10 percent ultimately receive treatment. On average, costs incurred in the United States from alcohol and drug use due to lost work productivity, health care expenses, motor vehicle accidents, and criminal justice costs exceeds $400 billion. Almost half of the cost is at the taxpayers’ expense.",
-    twitterUser: "ICJIA_Illinois"
+
+    lastUpdate: "2019-04-16",
+    fb_Image: "https://continuum-drug.netlify.com/splash-cropped-min.png",
+    fb_AppId: "658596667606445",
+    fb_Type: "article",
+    fb_Locale: "en_US",
+    fb_Author: "https://www.facebook.com/ICJIA",
+    twitter_User: "ICJIA_Illinois"
   },
 
   siteConfig: {
