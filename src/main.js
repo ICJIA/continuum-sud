@@ -13,6 +13,9 @@ Vue.use(VueScrollTo, {
 import headroom from "vue-headroom";
 Vue.use(headroom);
 
+import SocialSharing from "vue-social-sharing";
+Vue.use(SocialSharing);
+
 Vue.config.productionTip = false;
 
 new Vue({

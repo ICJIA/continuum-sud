@@ -1,6 +1,10 @@
 <template>
   <v-app id="top">
     <app-nav></app-nav>
+    <SocialSharing
+      url="https://continuum-drug.netlify.com"
+      title="Reducing Substance Abuse Disorders and Related Offending: A Continuum of Evidence-Informed Practices in the Criminal Justice System"
+    ></SocialSharing>
     <v-content>
       <router-view></router-view>
     </v-content>
@@ -12,9 +16,10 @@
 import { EventBus } from "./event-bus.js";
 import { mapGetters } from "vuex";
 import AppNav from "@/components/AppNav";
+import SocialSharing from "@/components/SocialSharing";
 export default {
   name: "App",
-  components: { AppNav },
+  components: { AppNav, SocialSharing },
   created() {
     if (!this.isAppReady) {
       this.$store.dispatch("initApp");

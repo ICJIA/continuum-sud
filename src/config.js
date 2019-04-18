@@ -29,6 +29,9 @@ module.exports = {
     }
   ],
   lastUpdate: "2019-04-16",
+  canonicalUrl: "https://continuum-drug.netlify.com",
+  title:
+    "Reducing Substance Abuse Disorders and Related Offending: A Continuum of Evidence-Informed Practices in the Criminal Justice System",
   siteConfig: {
     pages: {
       type: "page",
