@@ -1,19 +1,14 @@
 <template>
-  <div>
+  <div v-scroll="onScroll">
     <social-sharing
       :url="config.meta.url"
       :title="config.meta.title"
       :description="config.meta.description"
       :twitter-user="config.meta.twitterUser"
       inline-template
-      data-aos="slide-right"
-      data-aos-delay="50"
+      v-if="showSocial"
     >
-      <!-- <div>
-       
-      </div> -->
-
-      <div class="icon-bar">
+      <div class="icon-bar" data-aos="slide-right">
         <network
           network="facebook"
           style="background-color:#305891; padding:6px 6px; cursor:pointer; display: block ; color: #fff;"
@@ -42,19 +37,20 @@
 <script>
 import config from "@/config";
 export default {
-  props: {
-    url: String,
-    title: String
-  },
-  mounted() {
-    // console.log(this.config.meta.description);
+  mounted() {},
+  methods: {
+    onScroll(e) {
+      if (typeof window === "undefined") return;
+      const top = window.pageYOffset || e.target.scrollTop || 0;
+      this.showSocial = top > 100;
+    }
   },
   data() {
     return {
-      config
+      config,
+      showSocial: false
     };
-  },
-  methods: {}
+  }
 };
 </script>
 
