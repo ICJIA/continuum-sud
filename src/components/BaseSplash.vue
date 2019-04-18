@@ -1,8 +1,10 @@
 <template>
   <v-parallax
     dark
-    src="/splash-cropped-min.png"
-    v-if="$vuetify.breakpoint.md || $vuetify.breakpoint.lg"
+    src="/splash-cropped-min-v2.jpg"
+    v-if="
+      $vuetify.breakpoint.md || $vuetify.breakpoint.lg || $vuetify.breakpoint.xl
+    "
     height="500"
   >
     <v-layout align-center column justify-center>

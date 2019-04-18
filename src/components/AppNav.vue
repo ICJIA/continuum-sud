@@ -26,7 +26,12 @@
               sm: $vuetify.breakpoint.sm
             }"
           >
-            <span v-if="$vuetify.breakpoint.md || $vuetify.breakpoint.lg"
+            <span
+              v-if="
+                $vuetify.breakpoint.md ||
+                  $vuetify.breakpoint.lg ||
+                  $vuetify.breakpoint.xl
+              "
               >Reducing Substance Abuse Disorders and Related Offending: A
               Continuum of Evidence-Informed Practices in the Criminal Justice
               System</span
