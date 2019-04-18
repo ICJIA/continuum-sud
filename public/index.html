@@ -31,8 +31,7 @@
     <meta name="msapplication-TileColor" content="#da532c" />
     <meta name="theme-color" content="#ffffff" />
     <title>
-      Reducing Substance Abuse Disorders and Related Offending: A Continuum of
-      Evidence-Informed Practices in the Criminal Justice System
+      <%= VUE_APP_TITLE %>
     </title>
     <link
       rel="stylesheet"
@@ -57,30 +56,15 @@
       crossorigin="anonymous"
     />
     <!--- Facebook -->
-    <meta
-      property="og:title"
-      content="Reducing Substance Abuse Disorders and Related Offending: A Continuum of
-      Evidence-Informed Practices in the Criminal Justice System"
-    />
-    <meta
-      property="og:site_name"
-      content="Reducing Substance Abuse Disorders and Related Offending: A Continuum of
-      Evidence-Informed Practices in the Criminal Justice System"
-    />
-    <meta property="og:url" content="https://continuum-drug.netlify.com" />
-    <meta
-      property="og:description"
-      content="In the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse. Of those with SUDs, just over 10 percent ultimately receive treatment. On average, costs incurred in the United States from alcohol and drug use due to lost work productivity, health care expenses, motor vehicle accidents, and criminal justice costs exceeds $400 billion. Almost half of the cost is at the taxpayers’ expense."
-      quote="In the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse."
-    />
-    <meta property="fb:app_id" content="658596667606445" />
+    <meta property="og:title" content="<%= VUE_APP_TITLE %>" />
+    <meta property="og:site_name" content="<%= VUE_APP_TITLE %>" />
+    <meta property="og:url" content="<%= VUE_APP_URL %>" />
+    <meta property="og:description" content="<%= VUE_APP_DESCRIPTION %>" />
+    <meta property="fb:app_id" content="<%= VUE_APP_FB_APPID %>" />
 
-    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale" content="<%= VUE_APP_FB_LOCALE %>" />
 
-    <meta
-      property="og:image"
-      content="https://continuum-drug.netlify.com/splash-cropped-min.png"
-    />
+    <meta property="og:image" content="<%= VUE_APP_FB_IMAGE %>" />
   </head>
   <body>
     <noscript>

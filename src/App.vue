@@ -41,6 +41,7 @@ export default {
         EventBus.$emit("showSnackbar", reference.innerHTML);
       }
     });
+    console.log(process.env.VUE_APP_URL);
   }
 };
 </script>

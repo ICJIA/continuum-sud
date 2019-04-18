@@ -20,7 +20,7 @@ let md = require("markdown-it")({
   .use(require("markdown-it-footnote"))
   .use(require("markdown-it-named-headers"))
   .use(require("markdown-it-attrs"));
-console.log(config.markdownItOptions);
+
 /**
  * Sort array of objects by property
  *
