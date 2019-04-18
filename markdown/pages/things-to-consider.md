@@ -25,7 +25,7 @@ There are several important things to consider prior to and during implementatio
  9. Implementation is a process that takes time. Collect data to inform your organization about what is going on, what changes may be necessary, and assess whether there is fidelity to the practice (quality assurance processes, continuous quality improvement). This is key for sustainability.[^11] 
 
 
-
+----------
 ## Additional Resources
 
 The following list provides an inventory of organizations, programs and practices, and national repositories that provide further detail on information presented in this continuum as well as additional information on other evidence-informed programs and practices. This is not exhaustive nor an endorsement for any agency, initiative, or practice. It is provided for possible additional information on evidence-informed SUD and substance misuse prevention, deflection, diversion, and treatment. 
@@ -45,44 +45,37 @@ The following list provides an inventory of organizations, programs and practice
  - [Treatment Alternatives for Safe Communities (TASC)](http://www2.tasc.org/)
  - [University of Cincinnati Corrections Institute (UCCI)](https://www.uc.edu/corrections.html)
  - [George Mason University’s Center for Advancing Correctional Excellence (ACE!)](https://www.gmuace.org/)
- - [Illinois Center of Excellence for Behavioral Health and Justice](www.illinoiscenterofexcellence.org)
+- [National Association of Drug Court Professionals](http://www.nadcp.org/)
+
  </details>
  
 <details>
-	<summary> CORRECTIONAL INSTITUTIONS RESOURCES</summary>
+	<summary>CORRECTIONAL INSTITUTIONS RESOURCES</summary>
 
  - [Residential Substance Abuse Treatment](http://www.rsat-tta.com/Home) 
  - [National Institute on Drug Abuse: Overview of TCs](https://www.drugabuse.gov/publications/research-reports/therapeutic-communities/what-are-therapeutic-communities)
  - [National Institute of Corrections](http://nicic.gov/evidencebasedpractices)
-See also UCCI and ACE.
+- See also UCCI and ACE.
 
 </details>
 
 <details>
-	<summary>NATIONAL REGISTRIES FOR EVIDENCE-INFORMED AND EVIDENCE-BASED PRACTICE RESOURCES</summary> 
+	<summary>NATIONAL REGISTRIES & RESOURCES FOR EVIDENCE-INFORMED AND EVIDENCE-BASED PRACTICES</summary> 
 
 National registries each use varying standards and requirements in how they deem programs and practices as evidence-informed or evidence-based, and should be taken into consideration. This information can be found within each of the national resource websites.
 
  - [Crimesolutions.gov](https://www.crimesolutions.gov/)
- - [SAMHSA’s National Registry of Evidence-based Programs and Practices](http://www.samhsa.gov/nrepp)
+-  - [American Society of Addiction Medicine](https://www.asam.org/)
+ - [SAMHSA’s Evidence-based Practices Resource Center](https://www.samhsa.gov/ebp-resource-center)
  - [OJJDP Model Programs Guide](https://www.ojjdp.gov/mpg)
- - [Coalition for Evidence-based Policy](http://coalition4evidence.org/)
  - [Council of State Governments: What Works in Reentry Clearinghouse](https://whatworks.csgjusticecenter.org/)
  - [Campbell Collaboration](https://www.campbellcollaboration.org/)
  - [UC-Boulder’s Center for the Study of Prevention of Violence: Blueprints](http://www.colorado.edu/cspv/)
- - [Cochrane Collaboration](http://www.cochrane.org/)
  - [An Introduction to Evidence-Based Practices (JRSA)](http://www.jrsa.org/projects/ebp_briefing_paper_april2014.pdf)
+- [Northeastern's Health in Justice Action Lab](https://www.healthinjustice.org/)
 
 </details>
-	
-<summary> OTHER NATIONAL RESOURCES</summary>
 
- - [National Association of Addiction Treatment Providers](https://www.naatp.org/)
- - [National Association for Addiction Professionals](http://www.naadac.org/)
- - [National Association of Drug Court Professionals](http://www.nadcp.org/)
- - [American Society of Addiction Medicine](https://www.asam.org/)
-
-</details>
 
 
 [^1]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). F*acing addiction in America: The Surgeon General’s report on alcohol, drugs, and health*. Washington, DC: HHS.; Andrews, D. A, & Bonta, J. (2012). *The psychology of criminal conduct* (5th ed.). New York, NY. Routledge.
