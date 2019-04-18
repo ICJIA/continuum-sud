@@ -5,7 +5,6 @@ const _ = require("lodash");
 
 let env = "";
 _.each(config.meta, function(value, key) {
-  //key = key.toUpperCase()
   env = env + `VUE_APP_${key.toUpperCase()}="${value}"\n`;
 });
 

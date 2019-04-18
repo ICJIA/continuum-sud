@@ -2,7 +2,7 @@
 title: 'Things to Consider'
 posted: 2019-04-11
 updated: 2019-04-11
-position: 70
+position: 170
 displayTitle: true
 component: 'BasePage'
 theme: 'light'

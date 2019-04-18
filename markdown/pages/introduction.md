@@ -9,6 +9,7 @@ theme: 'light'
 sidebar: true
 menuTitle: 'Introduction'
 displayAuthor: true
+printFriendly: true
 ---
 
 <span class="drop">I</span>n the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse.[^1]  Of those with SUDs, just over 10 percent ultimately receive treatment.[^2]  On average, costs incurred in the United States from alcohol and drug use due to lost work productivity, health care expenses, motor vehicle accidents, and criminal justice costs exceeds $400 billion. Almost half of the cost is at the taxpayers’ expense.[^3] 
@@ -33,7 +34,7 @@ ICJIA researchers developed this continuum to share evidence-informed practices 
 <details>
 	<summary>DEFINING EVIDENCE-BASED PRACTICES</summary>
  
-| Terminology                                            | Description[^14]                                                                                                                                                             | Effect                               |
+| Terminology                                            | Description[^14]                                                                                                                                                        | Effect                               |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | *Anecdotal or Not Evidence-Informed or Evidence-Based* | There is little or no evidence, through the use of reliable, replicable, and generalizable research, indicating the programs achieve what they are intended to achieve. | Anecdotal, No Effect, Unknown Effect |
 | *Evidence-Informed*                                    | There is some evidence, through the use of reliable, replicable, and generalizable research, indicating the programs achieve what they are intended to achieve.         | Promising Practice                   |
