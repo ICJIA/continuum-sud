@@ -8,7 +8,7 @@
       inline-template
       v-if="showSocial"
     >
-      <div class="icon-bar" data-aos="slide-right">
+      <div class="icon-bar" id="icon-bar" data-aos="slide-right">
         <network
           network="facebook"
           style="background-color:#305891; padding:6px 6px; cursor:pointer; display: block ; color: #fff;"
@@ -40,15 +40,15 @@ export default {
   mounted() {},
   methods: {
     onScroll(e) {
-      if (typeof window === "undefined") return;
       const top = window.pageYOffset || e.target.scrollTop || 0;
-      this.showSocial = top > 100;
+      this.showSocial = top > 150;
     }
   },
   data() {
     return {
       config,
-      showSocial: false
+      showSocial: false,
+      social: null
     };
   }
 };
@@ -62,5 +62,15 @@ export default {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   z-index: 5000;
+}
+
+[data-aos^="hide"][data-aos^="hide"] {
+  opacity: 1;
+  transition-property: opacity, transform;
+}
+
+[data-aos^="hide"][data-aos^="hide"].aos-animate {
+  opacity: 0;
+  transform: translate(0);
 }
 </style>
