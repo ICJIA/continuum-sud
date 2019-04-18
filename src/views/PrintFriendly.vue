@@ -24,7 +24,7 @@
               >
                 {{ page.title }}
               </div>
-              <div v-html="sanitize(page.html)"></div>
+              <div v-html="sanitize(page.html)" class="markdown-body"></div>
             </span>
           </div>
 
@@ -35,7 +35,10 @@
               >
                 {{ intercept.timelineTitle }}: {{ intercept.title }}
               </div>
-              <div v-html="sanitize(intercept.html)"></div>
+              <div
+                v-html="sanitize(intercept.html)"
+                class="markdown-body"
+              ></div>
             </span>
           </div>
         </v-flex>
