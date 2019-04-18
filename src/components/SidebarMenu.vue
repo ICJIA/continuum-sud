@@ -36,6 +36,7 @@
 
       <v-spacer />
       <v-divider />
+
       <div class="text-xs-center mt-4 mb-3 hover">
         <img
           src="@/assets/img/logo-white.png"

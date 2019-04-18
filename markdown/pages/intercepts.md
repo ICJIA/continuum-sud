@@ -8,4 +8,5 @@ displayTitle: false
 theme: 'icjia'
 timelineContent: 'intercepts'
 sidebar: true
+printFriendly: false
 ---

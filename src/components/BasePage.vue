@@ -20,7 +20,7 @@
               {{ content.title }}
             </h2>
             <div v-if="content.displayAuthor">
-              <BaseAuthor></BaseAuthor>
+              <BaseAuthor :print="true"></BaseAuthor>
             </div>
             <div
               v-html="content.html"

@@ -11,7 +11,22 @@ export default new Router({
     {
       path: "/",
       name: "home",
-      component: Home
+      component: Home,
+      meta: { nav: true, social: true }
+    },
+    {
+      path: "/print-friendly",
+      name: "printFriendly",
+      component: () =>
+        import(/* webpackChunkName: "error" */ "./views/PrintFriendly.vue"),
+      meta: { nav: false, social: false }
+    },
+    {
+      path: "*",
+      redirect: { name: "home" }
     }
-  ]
+  ],
+  scrollBehavior() {
+    return { x: 0, y: 0 };
+  }
 });

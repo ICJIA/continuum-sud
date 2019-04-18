@@ -1,10 +1,7 @@
 <template>
   <v-app id="top">
-    <app-nav></app-nav>
-    <SocialSharing
-      url="https://continuum-drug.netlify.com"
-      title="Reducing Substance Abuse Disorders and Related Offending: A Continuum of Evidence-Informed Practices in the Criminal Justice System"
-    ></SocialSharing>
+    <app-nav v-if="$route.meta.nav"></app-nav>
+    <SocialSharing v-if="$route.meta.social"></SocialSharing>
     <v-content>
       <router-view></router-view>
     </v-content>
@@ -192,6 +189,12 @@ h2.rule {
 h2.no-rule {
   border-bottom: 0px !important;
 }
+
+h2 a.footnote-link,
+h3 a.footnote-link {
+  font-size: 12px;
+}
+
 .muted {
   color: #666;
 }

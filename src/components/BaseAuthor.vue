@@ -7,11 +7,21 @@
       <span v-for="author in config.authors" :key="author.name">
         <a href="author.url" target="_blank" class="author-link">{{
           author.name
-        }}</a>
-      </span>
-      |
-      <span style="color: #666">Updated: {{ config.lastUpdate | format }}</span>
-      | <v-icon>print</v-icon>
+        }}</a> </span
+      >&nbsp;&nbsp;|&nbsp;&nbsp;<span style="color: #666"
+        >Updated: {{ config.lastUpdate | format }}</span
+      ><span v-if="print"
+        >&nbsp;&nbsp;|&nbsp;&nbsp;<v-btn
+          to="/print-friendly"
+          flat
+          small
+          color="cyan darken-4"
+          style="margin-left: -4px; font-family: 'Lato', sans-serif; font-weight: 700"
+        >
+          Print &nbsp;
+          <v-icon dark>print</v-icon>
+        </v-btn></span
+      >
     </div>
   </div>
 </template>
@@ -23,6 +33,15 @@ export default {
     return {
       config
     };
+  },
+  mounted() {
+    console.log("Print: ", this.print);
+  },
+  props: {
+    print: {
+      type: Boolean,
+      default: true
+    }
   }
 };
 </script>

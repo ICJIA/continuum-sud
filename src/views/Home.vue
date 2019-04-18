@@ -27,7 +27,7 @@ export default {
     BaseSnackbar
   },
   computed: {
-    ...mapGetters(["isAppReady", "pages", "intercepts", "ebps"])
+    ...mapGetters(["isAppReady", "pages", "intercepts"])
   }
 };
 </script>

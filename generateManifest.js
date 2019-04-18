@@ -85,7 +85,7 @@ const readFiles = dirname => {
             );
             html = html.replace(
               /<section class="footnotes">/gm,
-              `<details class="mt-3"><summary>References</summary><section class="footnotes">`
+              `<details><summary>References</summary><section class="footnotes">`
             );
             html = html.replace(
               / <\/ol><\/section>/gm,
