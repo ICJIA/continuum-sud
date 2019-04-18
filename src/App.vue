@@ -212,7 +212,10 @@ ol li {
   margin-bottom: 20px;
   margin-left: 10px;
 }
-
+hr {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
 .page {
   border-top: 5px solid #fff;
 }
