@@ -64,9 +64,9 @@ In addition, it is also beneficial for treatment to be supplemented with other s
 ----------
 **Eligibility:**  Ideally, eligibility should be based on a validated clinical tool or validated risk/needs assessment conducted by trained professionals. Examples of assessments facilitated by trained clinicians include:
 
- - [Addiction Severity Index (ASI)](http://www.tresearch.org/tools/download-asi-instruments-manuals/). 
+ - [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
  - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
- - [DAST -10](https://www.drugabuse.gov/sites/default/files/files/DAST-10.pdf) (free).
+ - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
  - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^8] 
  - [Substance Abuse Subtle Screening Inventory](http://pubs.niaaa.nih.gov/publications/AssessingAlcohol/InstrumentPDFs/66_SASSI.pdf) (SASSI). 
  - [Texas Christian University (TCU) Drug Screen II](https://ibr.tcu.edu/forms/tcu-drug-screen/).[^9]  
@@ -78,7 +78,7 @@ For professionals in the criminal justice system, a validated risk/needs assessm
  - [Level of Service/Case Management Inventory (LSCMI)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi). 
  - [Global Appraisal of Individual Needs (GAIN)](http://gaincc.org/instruments/).[^10]  
  - [Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)](http://www.northpointeinc.com/files/downloads/Risk-Needs-Assessment.pdf). 
- - [Ohio Risk Assessment System (ORAS)](http://www.uc.edu/corrections/services/trainings/offender_assessment.html) (non-propriety, but costs for training).[^11]     
+ - [Ohio Risk Assessment System (ORAS)](https://cech.uc.edu/centers/ucci/services/trainings/offender_assessment/orastrainingoverview.html).[^11]     
 
 
 ----------
@@ -128,17 +128,17 @@ Behavioral (including CBT) programs or interventions produce the greatest effect
 ----------
 **Other *Effective* and *Promising* Cognitive and/or Behavioral Interventions**
 
-[Thinking for a Change](http://nicic.gov/t4c)  
-[Moral Reconation Therapy (MRT)](http://www.moral-reconation-therapy.com/)  
-[Motivational Enhancement Therapy/Motivational Interviewing (MET/MI)](https://www.improvingmipractices.org/practices/motivational-enhancement-motivational-interviewing)  
-[Mind-Body Bridging Substance Abuse Program (MBBSAP)](http://mindbodybridging.com/applications/mbb-recovery-program/)  
-[Contingency Management programs (CM)](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-0)  
-[Trauma-informed](http://www.samhsa.gov/nctic/trauma-interventions)  substance use disorder treatment such as: [TARGET](http://www.ptsdfreedom.org/about_target.html), [Seeking Safety](http://www.treatment-innovations.org/seeking-safety.html), and [TAMAR](http://www.samhsa.gov/nctic/trauma-interventions#Guide%20for%20Education%20and%20Therapy)  
+[Thinking for a Change](https://nicic.gov/thinking-for-a-change)  
+[Moral Reconation Therapy (MRT)](http://www.moral-reconation-therapy.com/) [Dialectical Behavior Therapy (DBT)](https://www.improvingmipractices.org/practice-areas/cognitive-behavior-therapy/dialectical-behavior-therapy)
+[Motivational Enhancement Therapy (MET)](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-2)
+[Motivational Interviewing (MI)](https://www.crimesolutions.gov/PracticeDetails.aspx?ID=31) 
+[Contingency Management programs (CM)](https://www.crimesolutions.gov/PracticeDetails.aspx?ID=72)  
+[Trauma-informed](http://www.samhsa.gov/nctic/trauma-interventions)  substance use disorder treatment such as: [TARGET](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=145), [Seeking Safety](http://www.treatment-innovations.org/seeking-safety.html), and [TAMAR](https://www.nasmhpd.org/content/trauma-addictions-mental-health-and-recovery-tamar-treatment-manual-and-modules)  
 [Matrix Model](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-3)   
 [Multisystemic Therapy-Substance Abuse](http://mstservices.com/target-populations/substance-abuse)  
-[Voucher-Based Reinforcement (VBR) and Prize-Based (PB) CM](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-0)  
-[Adolescent Community Reinforcement Approach (A-CRA)/Assertive Continuing Care (ACC)](http://nrepp.samhsa.gov/ProgramProfile.aspx?id=116)  
-[Behavioral Couples Therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215582/)  
+[Voucher-Based Reinforcement (VBR) and Prize-Based (PB) CM](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=103)  
+[Adolescent Community Reinforcement Approach (A-CRA)/Assertive Continuing Care (ACC)](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=137)  
+[Behavioral Couples Therapy](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=86)  
 [Aggression Replacement Training (ART)](http://www.aggressionreplacementtraining.com/)  
 [Cognitive Interventions Program](http://nicic.gov/wodp/program/215-cognitive-interventions-program-cgip)   
 [Reasoning and Rehabilitation](http://www.cognitivecentre.ca/RRProgram)
@@ -161,7 +161,7 @@ For more information on validated and reliable substance use assessment tools an
 <details>
 	<summary>PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT (MAT)</summary>
 
-**Description:**   [Medication-Assisted Treatment (MAT) programs](http://www.samhsa.gov/medication-assisted-treatment/treatment) incorporate the use of medicine to treat opioid or alcohol use disorders, in conjunction with behavioral therapies or counseling to treat individuals with SUDs.[^25]  With regard to opioids, the use of medication alone is called opioid replacement therapy (ORT), which alone, can also be effective to treat opioid use disorders (OUDs).[^26] MAT programs help with treatment retention and abstinence by decreasing withdrawal symptoms and cravings; increasing quality of life; reducing risk of HIV and hepatitis C; reducing risky behaviors associated with substance use; as well as decreasing risk for overdose.[^27]   MAT programs can be in the community (healthcare office, methadone maintenance clinic, primary care physicians’ office, certified opioid treatment programs (OTPs)) or [correctional settings](http://nicic.gov/topics/5288-medication-assisted-treatment-mat-in-corrections).[^28]  Each type of medication for MAT is Food and Drug Administration (FDA) approved and is most effective when coupled with other counseling or therapy services for SUDs.[^29]  
+**Description:**   [Medication-Assisted Treatment (MAT) programs](http://www.samhsa.gov/medication-assisted-treatment/treatment) incorporate the use of medicine to treat opioid or alcohol use disorders, in conjunction with behavioral therapies or counseling to treat individuals with SUDs.[^25]  With regard to opioids, the use of medication alone is called opioid replacement therapy (ORT), which alone, can also be effective to treat opioid use disorders (OUDs).[^26] MAT programs help with treatment retention and abstinence by decreasing withdrawal symptoms and cravings; increasing quality of life; reducing risk of HIV and hepatitis C; reducing risky behaviors associated with substance use; as well as decreasing risk for overdose.[^27]   MAT programs can be in the community (healthcare office, methadone maintenance clinic, primary care physicians’ office, certified opioid treatment programs (OTPs)) or [correctional settings](http://nicic.gov/topics/5288-medication-assisted-treatment-mat-in-corrections).[^28]  Each type of medication for MAT is Food and Drug Administration (FDA) approved and is most effective when coupled with other counseling or therapy services for SUDs; however, research also suggests benefits from medication alone without counseling.[^29]  
 
 ***Medications to treat Opioid Use Disorders (OUDs)***
 
@@ -208,9 +208,9 @@ In addition [Naltrexone](http://www.samhsa.gov/medication-assisted-treatment/tre
 ----------
 **Eligibility:** Individuals with opioid or alcohol use disorders may be eligible for MAT programs. Individuals should be assessed with a clinical and validated substance abuse tool that includes assessment of medical, psychiatric, and substance use history; an evaluation of family and psychosocial supports; assessment of the state’s prescription drug monitoring program for detection of unreported use of other medications; a physical exam, and testing for recent opioid use and/or other drugs.[^44]  Some examples of assessments using self-report answers facilitated by trained clinicians include:
 
- - [Addiction Severity Index (ASI)](http://www.tresearch.org/tools/download-asi-instruments-manuals/). 
+ - [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
  - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
- - [DAST -10](https://www.drugabuse.gov/sites/default/files/files/DAST-10.pdf) (free).
+ - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
  - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^45] 
  - [Substance Abuse Subtle Screening Inventory](http://pubs.niaaa.nih.gov/publications/AssessingAlcohol/InstrumentPDFs/66_SASSI.pdf) (SASSI). 
  - [Texas Christian University (TCU) Drug Screen II](https://ibr.tcu.edu/forms/tcu-drug-screen/).[^46]  
@@ -222,7 +222,7 @@ For professionals in the criminal justice system, a validated risk/needs assessm
  - [Level of Service/Case Management Inventory (LSCMI)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi). 
  - [Global Appraisal of Individual Needs (GAIN)](http://gaincc.org/instruments/).[^47]  
  - [Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)](http://www.northpointeinc.com/files/downloads/Risk-Needs-Assessment.pdf). 
- - [Ohio Risk Assessment System (ORAS)](http://www.uc.edu/corrections/services/trainings/offender_assessment.html) (non-propriety, but costs for training).[^48]     
+ - [Ohio Risk Assessment System (ORAS)](https://cech.uc.edu/centers/ucci/services/trainings/offender_assessment/orastrainingoverview.html).[^48]     
 
 In a medical setting, [physicians can ask patients](http://www.integration.samhsa.gov/clinical-practice/mat/RAND_MAT_guidebook_for_health_centers.pdf) about compulsive drug or alcohol use or loss of control over drinking or drug use during the past year.[^49]  It is also important to consider insurance coverage related to MAT programs (specifically, for the medications) for funding purposes, or other outside funding sources including low-cost drug programs, to help supplement those who may not be covered. 
 
@@ -230,7 +230,7 @@ In a medical setting, [physicians can ask patients](http://www.integration.samhs
 ----------
 **Research on medications to treat OUDs**
 
-Methadone can
+[Methadone](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=158) can
 
  - decrease heroin and other opioid use; 
  - decrease use of injection;
@@ -239,7 +239,7 @@ Methadone can
  - improve maternal and fetal outcomes for women who are pregnant or breastfeeding.[^51]
 
 
-Buprenorphine can
+[Buprenorphine](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=170) can
 
  - significantly decrease in opioid use;
  - increase in overall well-being and social functioning;
@@ -285,10 +285,9 @@ Research also suggests the importance of MAT programs within correctional instit
 
 ----------
 **Read More**
-[SAMHSA MAT](http://www.samhsa.gov/medication-assisted-treatment/treatment)   
+[SAMHSA MAT](http://www.samhsa.gov/medication-assisted-treatment/treatment)  
 [MAT comprehensive guide](http://www.icjia.state.il.us/assets/opioid/Comprehensive-Opioid-Medication-Assisted-Treatment-Program-resource-guide.pdf)  
-[Office of National Drug Control Policy MAT Healthcare Briefing](https://www.whitehouse.gov/sites/default/files/ondcp/recovery/medication_assisted_treatment_9-21-20121.pdf)  
-[National Commission on Correctional Health Care](http://www.ncchc.org/substance-use-disorder-treatment-position-statement)  
+[National Commission on Correctional Health Care](http://www.ncchc.org/substance-use-disorder-treatment-position-statement) 
 [Program profile: Buprenorphine Maintenance Treatment](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=170)  
 [Program profile: Methadone Maintenance Treatment](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=158)  
 [Opioid Treatment Program Directory-Illinois](http://dpt2.samhsa.gov/treatment/directory.aspx)  
@@ -297,7 +296,6 @@ Research also suggests the importance of MAT programs within correctional instit
 [Buprenorphine Information](https://www.samhsa.gov/medication-assisted-treatment/treatment/buprenorphine)  
 [Methadone Information](https://www.samhsa.gov/medication-assisted-treatment/treatment/methadone)  
 [SAMHSA Division of Pharmacologic Therapies (DPT)](https://www.samhsa.gov/medication-assisted-treatment/about)  
-[SAMHSA: Rights for Individuals on Medication-Assisted Treatment](http://store.samhsa.gov/product/Rights-for-Individuals-on-Medication-Assisted-Treatment/SMA09-4449)
 
 For more information on validated and reliable substance use assessment tools and risk/need tools:
 
@@ -307,7 +305,7 @@ For more information on validated and reliable substance use assessment tools an
 </details>
 -------
 <details>
-	<summary> RESEARCH UPDATE--PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT (MAT)</summary>
+	<summary>RESEARCH UPDATE--PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT (MAT)</summary>
 
 New research indicates patient success in the use of extended-release naltrexone (Vivitrol®) for medication-assisted treatment. While buprenorphine and methadone remain the gold standard for treatment of opioid use disorders (OUDs), naltrexone appears to have a place in treating OUDs with some success.[^62]
 
@@ -394,7 +392,7 @@ These studies support the need for pharmacological options to treat substance us
 
 [^28]: National Institute of Corrections. (2016). *Medication assisted treatment (MAT) in corrections*. Washington, DC: U.S. Department of Justice. Retrieved from http://bit.ly/2sj0NhU.; Krook, A. L., Brørs, O., Dahlberg, J., Grouff, K., Magnus, P., Røysamb, E. & Waal, H. (2002). A placebo-controlled study of high dose buprenorphine in opiate dependents waiting for medication-assisted rehabilitation in Oslo, Norway. *Addiction, 97*, 533–542.;  Fudala, P. J., Bridge, T. P., Herbert, S., Williford, W. O., Chiang, C. N., Jones, K., .Donald, T., & Buprenorphine/Naloxone Collaborative Study Group. (2003). Office-based treatment of opiate addiction with a sublingual-tablet formulation of buprenorphine and naloxone. *The New England Journal of Medicine, 349*(10), 949-958. 
 
-[^29]: Substance Abuse and Mental Health Services Administration. (2016). *Buprenorphine.* Rockville, MD: Department of Health and Human Services. Retrieved from http://bit.ly/1PC4cg7.
+[^29]: Substance Abuse and Mental Health Services Administration. (2016). *Buprenorphine.* Rockville, MD: Department of Health and Human Services. Retrieved from http://bit.ly/1PC4cg7.; Weiss, R. D., Potter, J. S., Fiellin, D. A., Byrne, M., Connery, H. S., Dickinson, W., … Ling, W. (2011). *Adjunctive counseling during brief and extended buprenorphine-naloxone treatment for prescription opioid dependence: a 2-phase randomized controlled trial. Archives of General Psychiatry, 68*(12), 1238–1246. https://doi.org/10.1001/archgenpsychiatry.2011.121.;Fiellin, D. A., Barry, D. T., Sullivan, L. E., Cutter, C. J., Moore, B. A., O’Connor, P. G., & Schottenfeld, R. S. (2013). *A Randomized Trial of Cognitive Behavioral Therapy in Primary Care-based Buprenorphine. The American Journal of Medicine, 126*(1), 74.e11-74.e17. https://doi.org/10.1016/j.amjmed.2012.07.005.; Ling, W., Hillhouse, M., Ang, A., Jenkins, J., & Fahey, J. (2013). *Comparison of behavioral treatment conditions in buprenorphine maintenance. Addiction (Abingdon, England), 108*(10), 1788–1798. https://doi.org/10.1111/add.12266.; Fiellin, D. A., Pantalon, M. V., Chawarski, M. C., Moore, B. A., Sullivan, L. E., O’Connor, P. G., & Schottenfeld, R. S. (2006). *Counseling plus buprenorphine-naloxone maintenance therapy for opioid dependence. The New England Journal of Medicine, 355*(4), 365–374. https://doi.org/10.1056/NEJMoa055255.
 
 [^30]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.
 

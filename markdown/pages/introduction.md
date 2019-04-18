@@ -1,5 +1,5 @@
 ---
-title: 'Reducing Substance Abuse Disorders and Related Offending: A Continuum of Evidence-Informed Practices in the Criminal Justice System'
+title: 'Reducing Substance Use Disorders and Related Offending: A Continuum of Evidence-Informed Practices in the Criminal Justice System'
 posted: 2019-04-11
 updated: 2019-04-11
 position: 10
@@ -9,17 +9,16 @@ theme: 'light'
 sidebar: true
 menuTitle: 'Introduction'
 displayAuthor: true
-printFriendly: true
 ---
 
 <span class="drop">I</span>n the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse.[^1]  Of those with SUDs, just over 10 percent ultimately receive treatment.[^2]  On average, costs incurred in the United States from alcohol and drug use due to lost work productivity, health care expenses, motor vehicle accidents, and criminal justice costs exceeds $400 billion. Almost half of the cost is at the taxpayers’ expense.[^3] 
 
+<details>
+<summary>READ MORE</summary>
+	
 Of the 20 million individuals with SUDs, a subset is involved with the criminal justice system. More than half of the 2.2 million individuals housed in U.S. prisons and jails meet the clinical diagnosis criteria for SUDs.[^4]  Seventy-eight percent of violent crimes and 77 percent of property crimes involve drugs and/or alcohol.[^5]  The government spends an estimated $74 billion dollars on court processing, community supervision, and imprisonment of individuals with SUDs, but just 1 percent of that amount on prevention and treatment for these individuals.[^6]  In addition, about 11 percent of prisoners with SUDs or substance misuse receive treatment.[^7]
 
-Today, SUDs and substance misuse and abuse are considered a [public health issue](https://addiction.surgeongeneral.gov/surgeon-generals-report.pdf), as well as a criminal justice concern. Public health, treatment providers, medical, and criminal justice professionals, as well as community members, legislators, and other stakeholders, are encouraged to collaborate to develop a comprehensive approach to SUDs.[^8]  Together, they can increase access to substance use, misuse, and SUD treatment and the use of harm reduction tactics to reduce substance use, overdose, and criminal justice involvement.[^9] 
-
-<details>
-<summary> SUD AS A PUBLIC HEALTH CONCERN</summary>
+Today, SUDs and substance misuse and abuse are considered a [public health issue](https://addiction.surgeongeneral.gov/index.php/executive-summary/report), as well as a criminal justice concern. Public health, treatment providers, medical, and criminal justice professionals, as well as community members, legislators, and other stakeholders, are encouraged to collaborate to develop a comprehensive approach to SUDs.[^8]  Together, they can increase access to substance use, misuse, and SUD treatment and the use of harm reduction tactics to reduce substance use, overdose, and criminal justice involvement.[^9] 
 	
 A multipronged approach to addressing drug availability and use in Illinois communities entail interdiction efforts aimed at those who traffic large quantities of illicit substances, as well as prevention, deflection, diversion, and treatment of those who use. Traditional law enforcement tactics work to combat traffickers and suppliers to reduce influx of drugs in the community.[^10]  At the same time, the system can offer diversion, outreach, and referrals to treatment services. 
 
@@ -30,10 +29,11 @@ ICJIA researchers developed this continuum to share evidence-informed practices 
 </details>
 
 <div class="article-table table">
+
+<details>
+	<summary>DEFINING EVIDENCE-BASED PRACTICES</summary>
  
-## Defining Evidence-Based Practices[^14]
- 
-| Terminology                                            | Description                                                                                                                                                             | Effect                               |
+| Terminology                                            | Description[^14]                                                                                                                                                             | Effect                               |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | *Anecdotal or Not Evidence-Informed or Evidence-Based* | There is little or no evidence, through the use of reliable, replicable, and generalizable research, indicating the programs achieve what they are intended to achieve. | Anecdotal, No Effect, Unknown Effect |
 | *Evidence-Informed*                                    | There is some evidence, through the use of reliable, replicable, and generalizable research, indicating the programs achieve what they are intended to achieve.         | Promising Practice                   |
@@ -41,8 +41,7 @@ ICJIA researchers developed this continuum to share evidence-informed practices 
  
 
 </div>
-
-
+</DETAILS>
 
 <details>
 <summary>EVIDENCE-BASED RISK AND PROTECTIVE FACTORS</summary>

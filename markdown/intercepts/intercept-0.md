@@ -38,7 +38,7 @@ This intercept involves community partnerships, prevention, and behavioral healt
 
 **Family-Based Prevention Program Examples and Research**
 
- [**Guiding Good Choices (GGC)**](http://www.channing-bete.com/prevention-programs/guiding-good-choices/guiding-good-choices.html) aims to increase healthy, protective parent-youth interactions while targeting youths’ risk for early substance use using a family-competency training program. The five-session weekly program led by trained facilitators incorporates
+ [**Guiding Good Choices (GGC)**](https://www.blueprintsprograms.org/factsheet/guiding-good-choices) aims to increase healthy, protective parent-youth interactions while targeting youths’ risk for early substance use using a family-competency training program. The five-session weekly program led by trained facilitators incorporates
  
  - family management skills;
  - parent-youth bonding; and
@@ -51,7 +51,7 @@ This intercept involves community partnerships, prevention, and behavioral healt
  - lower new user proportions for intoxication and marijuana after 3.5-years; and
  - were more likely to remain drug-free at a 2-year follow-up if they had not initiated substance use at 1-year follow-up.[^5] 
 
-[**Strengthening Families Program (SFP)**](https://www.strengtheningfamiliesprogram.org/) targets family protective factors and resiliency through a seven-session program led by trained facilitators to decrease substance use and abuse in addition to other behavioral problems.[^6]  The program aims to
+[**Strengthening Families Program (SFP)**](http://www.episcenter.psu.edu/ebp/strengthening) targets family protective factors and resiliency through a seven-session program led by trained facilitators to decrease substance use and abuse in addition to other behavioral problems.[^6]  The program aims to
 
  - build parental skills;
  - create stronger family units; and
@@ -65,7 +65,7 @@ This intercept involves community partnerships, prevention, and behavioral healt
  - delayed onset of substance use;[^11]  and
  - lower likelihood of substance use initiation at 2.5-year follow-up when youth had not initiated substance use at 1.5-year follow-up.[^12]  
 
-[**Creating Lasting Family Connections (CLFC)**](http://copes.org/) targets families and at-risk youth in high-risk environments to increase youth resiliency and reduce substance use.[^13]  The program aims to
+[**Creating Lasting Family Connections (CLFC)**](http://copes.org/wp-content/uploads/2018/03/CLFC-Article-in-Encyclopedia-of-Couple-and-Family-Therapy.pdf) targets families and at-risk youth in high-risk environments to increase youth resiliency and reduce substance use.[^13]  The program aims to
 
  - educate on drugs and alcohol; 
  - increase communication and conflict resolution skills; 
@@ -134,7 +134,7 @@ Research indicates MST can effectively
  - decrease alcohol use at 4- and 12-month follow-ups; and
  - decrease in multiple drug use at 12-month follow-ups.[^33] 
 
-Other effective evidence-informed family therapies include [**Functional Family Therapy (FFT)**](http://www.fftllc.com/), [**Treatment Foster Care Oregon**](http://www.tfcoregon.com/), and [**Nurse-Family Partnership**](https://www.nursefamilypartnership.org/).
+Other effective family therapies include [**Functional Family Therapy (FFT)**](http://www.fftllc.com/), [**Treatment Foster Care Oregon**](http://www.tfcoregon.com/), and [**Nurse-Family Partnership**](https://www.nursefamilypartnership.org/).
 </details>
 
 
@@ -157,7 +157,7 @@ Other effective evidence-informed family therapies include [**Functional Family 
 
 ### School-Based Prevention Programs Examples and Research
 
-[**Project Towards No Drug Abuse (TND)**](http://tnd.usc.edu/about.php) is a high school-based program targeting youth risk for substance use. The program can be a universal program or selective. A trained teacher uses a curriculum focusing on
+[**Project Towards No Drug Abuse (TND)**](https://tnd.usc.edu/) is a high school-based program targeting youth risk for substance use. The program can be a universal program or selective. A trained teacher uses a curriculum focusing on
 
  - social skills training; 
  - decision-making components; and 
@@ -250,7 +250,7 @@ The program develops skills in
 ----------
 ### Multi-Modal Prevention Program Examples and Research
 
-[**Raising Healthy Children (RHC)**](http://www.sdrg.org/rhcsummary.asp) incorporates teacher, parent, and student components to increase socially and developmentally appropriate behaviors.[^59] This includes workshops and sessions in each component area to help enhance protective factors and reduce risk factors related to substance use and other antisocial behaviors.[^60]
+[**Raising Healthy Children (RHC)**](https://www.blueprintsprograms.org/factsheet/raising-healthy-children) incorporates teacher, parent, and student components to increase socially and developmentally appropriate behaviors.[^59] This includes workshops and sessions in each component area to help enhance protective factors and reduce risk factors related to substance use and other antisocial behaviors.[^60]
 
 Teachers work on
 
@@ -266,7 +266,7 @@ Teachers work on
  - reduce reports of violent behavior; and 
  - reduce reports of heavy alcohol use within the previous year.[^62] 
 
-[**Communities That Care (CTC)**](http://www.sdrg.org/ctcresource/Prevention%20Strategies%20Guide/introduction.pdf) is a community-based prevention approach that targets youth health and behavioral issues through focusing on scientifically validated risk and protective factors.[^63]  The program includes five key components:
+[**Communities That Care (CTC)**](https://www.communitiesthatcare.net/) is a community-based prevention approach that targets youth health and behavioral issues through focusing on scientifically validated risk and protective factors.[^63]  The program includes five key components:
 
  - *Opportunities*: creation of developmentally acceptable opportunities for positive and active participation and interaction with other prosocial individuals.
  - *Skills*: teaching skills necessary for successful development.
@@ -285,7 +285,7 @@ These key components are developed and implemented by a community coalition who 
 
 Another study found lower levels of risk factors, including delinquency and alcohol/drug use in CTC communities.[^66] 
 
-[**Positive Family Support (PFS)**](https://reachinstitute.asu.edu/family-check-up/program-overview) targets at-risk youth using a multilevel, family-centered approach that is adaptable and flexible to different family needs. PFS consists of 3 levels administered in a middle school setting:
+[**Positive Family Support (PFS)**](https://reachinstitute.asu.edu/programs/positivefamilysupport) targets at-risk youth using a multilevel, family-centered approach that is adaptable and flexible to different family needs. PFS consists of 3 levels administered in a middle school setting:
 
  - Creation of a Family Resource Center (FRC) using a Parent Consultant, and implementation of Success, Health, and Peace (SHAPe).
  - Incorporation of brief interventions, with collaboration from parents for youth demonstrating signs of academic or behavioral problems not met in level 1. 
@@ -301,7 +301,7 @@ Another study found lower levels of risk factors, including delinquency and alco
  - decrease growth in antisocial behavior; and
  - reduce associations with antisocial peers.[^69]  
 
-[**Linking the Interests of Families and Teachers (LIFT)**](http://www.childtrends.org/programs/linking-the-interests-of-families-and-teachers-lift/) targets at-risk youth and families via class-based social skill development, playground Good Behavior Game (GBG), and parent management training.[^70]  There is a LIFT telephone line in each classroom that allows for youth or families to use for questions or concerns, while also allowing teachers to provide information on the class daily.[^71] 
+[**Linking the Interests of Families and Teachers (LIFT)**](https://www.childtrends.org/programs/linking-the-interests-of-families-and-teachers-lift) targets at-risk youth and families via class-based social skill development, playground Good Behavior Game (GBG), and parent management training.[^70]  There is a LIFT telephone line in each classroom that allows for youth or families to use for questions or concerns, while also allowing teachers to provide information on the class daily.[^71] 
 
 ***Research findings.*** LIFT is an *effective* program, most notable for its impact on aggressive behavior. LIFT youth participants compared to non-LIFT youth participants indicated a
 
