@@ -209,7 +209,8 @@ ol li {
 }
 ul li,
 ol li {
-  margin-bottom: 8px;
+  margin-bottom: 20px;
+  margin-left: 10px;
 }
 
 .page {
