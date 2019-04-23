@@ -285,6 +285,7 @@ Research also suggests the importance of MAT programs within correctional instit
 
 ----------
 **Read More**
+	
 [SAMHSA MAT](http://www.samhsa.gov/medication-assisted-treatment/treatment)  
 [MAT comprehensive guide](http://www.icjia.state.il.us/assets/opioid/Comprehensive-Opioid-Medication-Assisted-Treatment-Program-resource-guide.pdf)  
 [National Commission on Correctional Health Care](http://www.ncchc.org/substance-use-disorder-treatment-position-statement) 

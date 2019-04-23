@@ -407,7 +407,7 @@ RDAP eligibility includes the following, per the BOP guidelines:
 
 Eligibility should be based on a validated clinical tool identifying a SUD or substance misuse. This can include (but is not limited to): 
 
- - [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
+- [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
  - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
  - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
  - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^79] 
@@ -449,17 +449,24 @@ RDAP is a ***promising*** program that can, when compared to the control group
 
 ----------
 **Read More**
+
 For more information on reentry for individuals with SUDs and other substance use issues:
 
 [In-Custody Treatment and Offender Reentry](https://obamawhitehouse.archives.gov/ondcp/in-custody-treatment-and-reentry)
+	
 [Correctional Health Care and Substance Use Treatment](http://www.ncchc.org/substance-use-disorder-treatment-position-statement)    
-[Bureau of Prisons Substance Abuse Treatment](https://www.bop.gov/inmates/custody_and_care/substance_abuse_treatment.jsp)  
+	
+[Bureau of Prisons Substance Abuse Treatment](https://www.bop.gov/inmates/custody_and_care/substance_abuse_treatment.jsp) 
+	
 [Offender reentry: Correctional Statistics, Reintegration into the Community, and Recidivism](https://fas.org/sgp/crs/misc/RL34287.pdf)  
 
+	
 For more information on validated and reliable substance use assessment tools and risk/need tools:
 
 [Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)  
+	
 [Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
+	
 [TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
 </details>
 

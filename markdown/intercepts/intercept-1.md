@@ -37,14 +37,18 @@ This intercept involves first contact with the criminal justice system, includin
 **Examples in the field:**  These programs help provide information, training, and distribution of naloxone and naloxone use, in addition to other harm reduction strategies (i.e. syringe exchanges, overdose awareness, and health-related issues like Hepatitis C).[^5]  The following are examples of naloxone distribution and training locations:
 
  - [Illinois Department of Human Services Drug Overdose Prevention Program.](http://www.dhs.state.il.us/page.aspx?item=58142) 
+ - [Stop Overdose IL.](http://stopoverdoseil.org/naloxone.html) 
  - Overdose Response Program out of Maryland Department of Health and Mental Hygiene (DHMH). 
  - Deaths Avoided with Naloxone (DAWN) in Ohio. 
  - North Carolina Harm Reduction Coalition (NCHRC). 
  - In addition to other state and local police department naloxone programs. 
 
 **Other resources:**
+	
 [A State and National Overview of the Opioid and Heroin Crisis](http://www.icjia.org/articles/an-overview-of-national-and-illinois-opioid-and-heroin-crisis)
+	
 [Harm Reduction Overview and Understanding Naloxone](http://harmreduction.org/issues/overdose-prevention/overview/overdose-basics/understanding-naloxone/)
+	
 [Harm Reduction Coalition](http://harmreduction.org/issues/overdose-prevention/tools-best-practices/naloxone-program-case-studies/chicago-recovery-alliance/)
 
 </details>
@@ -83,14 +87,15 @@ Preliminary data indicates a
 
  - ANGEL (Gloucester, Mass.).
  - ANGEL/Hope (North Carolina). 
- - A Way Out ([Lake County, Ill](http://awayoutlc.org/) and [McHenry County, Ill.](https://www.mchenrycountyil.gov/county-government/departments-j-z/state-s-attorney-s-office/programs-and-initiatives/a-way-out)).
- - Safe Passage ([Lee](http://safepassage-saukvalley.com/), [Livingston](https://www.pontiac.org/539/Safe-Passage-Initiative), [Whiteside](http://safepassage-saukvalley.com/) Counties, Ill., McLean County, Ill.).
-- [Elk Grove Cares (Elk Grove, Ill.)](http://www.elkgrove.org/government/village-departments/police-department/elk-grove-village-cares)
-- [Village of Arlington Heights Community Addiction and Recovery Effort (CARE)](https://www.vah.com/our_community/CARE) (Arlington Heights, Ill.).
-- [Arlington Outreach Model](http://paariusa.org/arlington/) (Arlington, Mass.).
+ - A Way Out (Lake County, Ill.).
+ - Safe Passage (Lee, Livingston, Whiteside Counties, Ill.).
+
+The [Arlington Outreach Model](http://paariusa.org/arlington/) (Arlington, Mass.) and [Conversations for Change](http://www.east-end.org/2016/09/08/conversation-for-change-2/) (Dayton, Ohio) are both  slightly different initiatives that are generally more proactive in connecting individuals with SUD to treatment and services through outreach to those in need. 
 
 **Other resources:**
+	
 [Rethinking law enforcement’s role on drugs: Community drug intervention and diversion efforts](http://www.icjia.org/articles/rethinking-law-enforcement-s-role-on-drugs-community-drug-intervention-and-diversion-efforts)
+	
 [COPS: Building Successful Partnerships between Law Enforcement and Public Health](https://ric-zai-inc.com/Publications/cops-p356-pub.pdf)
 
 </details>
@@ -156,8 +161,11 @@ Several others are in final stages of implementation:
  - Atlanta (DeKalb & Fulton counties).[^23] 
 
  **Other resources:**
- [Rethinking law enforcement’s role on drugs: Community drug intervention and diversion efforts](http://www.icjia.org/articles/rethinking-law-enforcement-s-role-on-drugs-community-drug-intervention-and-diversion-efforts)
+	
+[Rethinking law enforcement’s role on drugs: Community drug intervention and diversion efforts](http://www.icjia.org/articles/rethinking-law-enforcement-s-role-on-drugs-community-drug-intervention-and-diversion-efforts)
+	
 [LEAD National Support Bureau](http://www.leadbureau.org/)
+	
 [Police Assisted Addiction and Recovery Initiatives](http://paariusa.org/)
 
 </details>

@@ -117,7 +117,7 @@ Some treatment focuses more on cognitions (considered cognitive therapy), some m
 ----------
 **Eligibility:**  Ideally, eligibility should be based on a validated clinical tool or validated risk/needs assessment conducted by trained professionals. Examples of assessments facilitated by trained clinicians include:
 
- - [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
+- [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
  - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
  - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
  - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^18] 
@@ -201,13 +201,19 @@ Behavioral (including CBT) programs or interventions produce the greatest effect
 **Read More**
 
 [Risk-Need-Responsivity Model for offender assessment and rehabilitation](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rsk-nd-rspnsvty/index-eng.aspx)  
+	
 [Integrating substance abuse treatment and criminal justice supervision](https://www.researchgate.net/publication/5303628_Integrating_Substance_Abuse_Treatment_and_Criminal_Justice_Supervision)  
+	
 [National Commission on Correctional Health Care](http://www.ncchc.org/substance-use-disorder-treatment-position-statement)
+	
 [Addressing Opioid Use through the Criminal Justice System](https://www.vera.org/publication_downloads/new-normal-opioid-use-criminal-justice-system/new-normal-opioid-use-criminal-justice-system.pdf)
+	
 For more information on validated and reliable substance use assessment tools and risk/need tools:
 
 [Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)  
+	
 [Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
+	
 [TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
 
 </details>
@@ -472,7 +478,7 @@ RDAP eligibility includes the following, per the BOP guidelines:
 
 Eligibility should be based on a validated clinical tool identifying a SUD or substance misuse. This can include (but is not limited to): 
 
-  -[Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
+- [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
  - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
  - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
  - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^90] 
@@ -573,7 +579,7 @@ Limitations and things to consider about SUD and substance use treatment in corr
 ----------
 **Eligibility:**  Individuals in corrections with SUDs.  Eligibility varies greatly between correctional facilities (jails and prisons). Some examples of assessments by correctional staff or clinicians to identify appropriate individuals include: 
 
-  -[Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
+- [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
  - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
  - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
  - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^100] 

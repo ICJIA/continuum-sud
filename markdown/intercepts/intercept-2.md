@@ -85,10 +85,13 @@ Several others are in final stages of implementation:
 
 [Rethinking law enforcement’s role on drugs: Community drug intervention and diversion efforts](http://www.icjia.org/articles/rethinking-law-enforcement-s-role-on-drugs-community-drug-intervention-and-diversion-efforts)
 
+	
 For more information on developing deflection/diversion initiatives:
 
 [COPS: Building Successful Partnerships between Law Enforcement and Public Health](https://ric-zai-inc.com/Publications/cops-p356-pub.pdf)
+	
 [LEAD National Support Bureau](www.leadbureau.org)
+	
 [Police Assisted Addiction and Recovery Initiative](https://paariusa.org)
 
 </details>

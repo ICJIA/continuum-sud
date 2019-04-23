@@ -9,7 +9,6 @@ theme: 'light'
 sidebar: true
 printFriendly: true
 ---
-
 In any type of program, practice, or initiative for individuals with SUDs, it is imperative that they are evidence-informed, meaning that rigorous evaluation and research proves the practices and program components have produced significant, replicable positive outcomes. Implementing these programs and practices with a high degree of fidelity can help improve and save lives as well as improve public safety and decrease taxpayer and criminal justice system expenses.[^1]  In fact, for every \$1 spent on SUD treatment, there is in an estimated \$4 to \$7 return in the form of reduced drug-related crime, and criminal justice costs, and health care cost savings.[^2]  Criminal justice professionals, in conjunction with other policymakers, stakeholders, and providers, can be more effective at reducing recidivism and substance use with limited resources when they use initiatives that have been shown to work. This continuum outlined several ways in which schools, communities, families, law enforcement, courts and supervision, and correctional institutions can refer, divert, and treat individuals with SUDs, based on evidence-informed practices and offered research, resources, and examples.
 
 There are several important things to consider prior to and during implementation of SUD and substance misuse treatment:
@@ -77,6 +76,8 @@ National registries each use varying standards and requirements in how they deem
 </details>
 
 
+
+REFERENCES
 
 [^1]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). F*acing addiction in America: The Surgeon General’s report on alcohol, drugs, and health*. Washington, DC: HHS.; Andrews, D. A, & Bonta, J. (2012). *The psychology of criminal conduct* (5th ed.). New York, NY. Routledge.
 
