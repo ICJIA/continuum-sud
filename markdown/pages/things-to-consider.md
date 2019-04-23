@@ -76,9 +76,6 @@ National registries each use varying standards and requirements in how they deem
 </details>
 
 
-
-REFERENCES
-
 [^1]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). F*acing addiction in America: The Surgeon General’s report on alcohol, drugs, and health*. Washington, DC: HHS.; Andrews, D. A, & Bonta, J. (2012). *The psychology of criminal conduct* (5th ed.). New York, NY. Routledge.
 
 [^2]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office of Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.; National Institute on Drug Abuse. (2012). *Principles of drug addiction treatment: A research-based guide* (3rd ed.). National Institute of Health, U.S. Department of Health and Human Services. Bethesda, MD: HHS.
