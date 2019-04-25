@@ -27,9 +27,7 @@ export default {
     BaseSnackbar
   },
   mounted() {
-    if (!process.env.NODE_ENV === "development") {
-      this.$ga.page("/");
-    }
+    this.$ga.page("/");
   },
   computed: {
     ...mapGetters(["isAppReady", "pages", "intercepts"])
