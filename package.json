@@ -19,6 +19,7 @@
     "markdown-it-named-headers": "0.0.4",
     "slug": "^1.1.0",
     "vue": "^2.6.10",
+    "vue-analytics": "^5.16.4",
     "vue-headroom": "^0.10.1",
     "vue-router": "^3.0.3",
     "vue-scrollto": "^2.15.0",

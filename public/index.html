@@ -1,83 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="<%= BASE_URL %>apple-touch-icon.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="<%= BASE_URL %>favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="<%= BASE_URL %>favicon-16x16.png"
-    />
-    <link rel="manifest" href="<%= BASE_URL %>site.webmanifest" />
-    <link
-      rel="mask-icon"
-      href="<%= BASE_URL %>safari-pinned-tab.svg"
-      color="#5bbad5"
-    />
-    <meta name="msapplication-TileColor" content="#da532c" />
-    <meta name="theme-color" content="#ffffff" />
-    <title>
-      <%= VUE_APP_TITLE %>
-    </title>
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Material+Icons"
-    />
-    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
-    <link rel="stylesheet" href="https://use.typekit.net/pif0qbj.css" />
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="<%= BASE_URL %>apple-touch-icon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="<%= BASE_URL %>favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="<%= BASE_URL %>favicon-16x16.png" />
+	<link rel="manifest" href="<%= BASE_URL %>site.webmanifest" />
+	<link rel="mask-icon" href="<%= BASE_URL %>safari-pinned-tab.svg" color="#5bbad5" />
+	<meta name="msapplication-TileColor" content="#da532c" />
+	<meta name="theme-color" content="#ffffff" />
+	<title>
+		<%= VUE_APP_TITLE %>
+	</title>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Material+Icons" />
+	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
-    <link
-      href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900"
-      rel="stylesheet"
-    />
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
-      crossorigin="anonymous"
-    />
-    <!--- Facebook -->
-    <meta property="og:title" content="<%= VUE_APP_TITLE %>" />
-    <meta property="og:site_name" content="<%= VUE_APP_TITLE %>" />
-    <meta property="og:url" content="<%= VUE_APP_URL %>" />
-    <meta property="og:description" content="<%= VUE_APP_DESCRIPTION %>" />
-    <meta property="fb:app_id" content="<%= VUE_APP_FB_APPID %>" />
+	<link rel="stylesheet" href="https://use.typekit.net/pif0qbj.css" />
 
-    <meta property="og:locale" content="<%= VUE_APP_FB_LOCALE %>" />
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+	 crossorigin="anonymous" />
+	<!--- Facebook -->
+	<meta property="og:title" content="<%= VUE_APP_TITLE %>" />
+	<meta property="og:site_name" content="<%= VUE_APP_TITLE %>" />
+	<meta property="og:url" content="<%= VUE_APP_URL %>" />
+	<meta property="og:description" content="<%= VUE_APP_DESCRIPTION %>" />
+	<meta property="fb:app_id" content="<%= VUE_APP_FB_APPID %>" />
 
-    <meta property="og:image" content="<%= VUE_APP_FB_IMAGE %>" />
-  </head>
-  <body>
-    <noscript>
-      <strong
-        >We're sorry but this website doesn't work properly without JavaScript
-        enabled. Please enable it to continue.</strong
-      >
-    </noscript>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-    <script>
-      AOS.init({ once: false, duration: 600 });
-    </script>
-  </body>
+	<meta property="og:locale" content="<%= VUE_APP_FB_LOCALE %>" />
+
+	<meta property="og:image" content="<%= VUE_APP_FB_IMAGE %>" />
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-10798495-31"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-10798495-31');
+	</script> -->
+</head>
+
+<body>
+	<noscript>
+		<strong>We're sorry but this website doesn't work properly without JavaScript
+			enabled. Please enable it to continue.</strong>
+	</noscript>
+	<div id="app"></div>
+	<!-- built files will be auto injected -->
+	<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+	<script>
+		AOS.init({ once: false, duration: 600 });
+	</script>
+</body>
+
 </html>

@@ -56,6 +56,9 @@ export default {
     BaseSnackbar,
     BaseAuthor
   },
+  mounted() {
+    this.$ga.page("/print-friendly");
+  },
   methods: {
     sanitize(html) {
       let sanitized = html.replace(/<(\/?|!?)(summary|details)>/g, "");

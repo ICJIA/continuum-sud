@@ -16,6 +16,11 @@ Vue.use(headroom);
 import SocialSharing from "vue-social-sharing";
 Vue.use(SocialSharing);
 
+import VueAnalytics from "vue-analytics";
+Vue.use(VueAnalytics, {
+  id: "UA-10798495-31"
+});
+
 Vue.config.productionTip = false;
 
 new Vue({
