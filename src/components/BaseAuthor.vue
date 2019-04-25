@@ -5,7 +5,7 @@
       class="text-xs-left"
     >
       <span v-for="author in config.authors" :key="author.name">
-        <a href="author.url" target="_blank" class="author-link">{{
+        <a :href="config.authors[0].url" target="_blank" class="author-link">{{
           author.name
         }}</a> </span
       >&nbsp;&nbsp;|&nbsp;&nbsp;<span style="color: #666"
