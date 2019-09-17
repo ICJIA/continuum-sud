@@ -99,8 +99,14 @@ Prevention of substance use requires an understanding of factors that may decrea
  - Bonding (attachment or commitment).
  - Healthy beliefs and standards for behavior.
  - Marriage or committed relationship.**
-######*denotes factor related to adolescent substance use.
-######*denotes factor related to young adult substance use.
+  
+
+###### *denotes factor related to adolescent substance use.
+
+
+###### **denotes factor related to young adult substance use.
+
+
 	
 </details>
 
