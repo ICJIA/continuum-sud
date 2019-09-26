@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "node generateEnv.js && node generateManifest.js && vue-cli-service serve",
-    "build": "node generateEnv.js && node generateManifest.js && vue-cli-service build && node sitemapGenerator.js",
+    "build": "node generateEnv.js && node generateManifest.js && vue-cli-service build",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit"
   },
