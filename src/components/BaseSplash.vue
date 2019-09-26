@@ -1,7 +1,7 @@
 <template>
   <v-parallax
     dark
-    src="/splash-cropped-min-v2.jpg"
+    :src="require('@/assets/img/splash-cropped-min-v2.jpg')"
     v-if="
       $vuetify.breakpoint.md || $vuetify.breakpoint.lg || $vuetify.breakpoint.xl
     "
